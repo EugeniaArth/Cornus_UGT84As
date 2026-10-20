@@ -1,0 +1,140 @@
+
+===== SOURCE: plantbiotechnology-41-3-24.0601a-s001.pdf; PDF page 3 =====
+Supplementary Figure S2. Phylogenic relationship of UGTs from 31 different angiosperm orders.
+UGT family members listed in Table 1, or those available on the Phytozome database (https://phytozome-
+next.jgi.doe.gov/) or the UGT Nomenclature Committee (https://labs.wsu.edu/ugt/), were analyzed using the 
+neighbor-joining method under the same conditions as described in the legend of Figure 3. Proteins with the 
+highest sequence similarity to UGT84A25a were found from the Phytozome database for each species. UGTs that 
+have been named by the UGT Nomenclature Committee are indicated in red.
+Arachis hypogaea arahy.Tifrunner.gnm1.ann1.MS1QBK.1 (Fabales)
+Arachis hypogaea arahy.Tifrunner.gnm1.ann1.30SZ61.1 (Fabales)
+Fragaria ananassa UGT84A6 (Rosales)
+Quercus robur UGT84A13 (Fagales)
+Camellia sinensis UGT84A22 (Ericales)
+Anacardium occidentale Anaoc.0011s0215.1 (Sapindales)
+Anacardium occidentale Anaoc.0097s0001.1 (Sapindales)
+Anacardium occidentale Anaoc.0003s1146.1 (Sapindales)
+Manihot esculenta Manes.07G070800.1 (Malpighiales)
+Eucalyptus camaldulensis UGT84A25a (Myrtales)
+Eucalyptus camaldulensis UGT84A25b (Myrtales)
+Eucalyptus camaldulensis UGT84A26a (Myrtales)
+Eucalyptus camaldulensis UGT84A26b (Myrtales)
+Vitis vinifera UGT84A44 (Vitales)
+Vitis vinifera VvGT2 (Vitales)
+Vitis vinifera VvGT3 (Vitales)
+Kalanchoe laxiflora Kalaxd.15G122300.1 (Saxifragales)
+Theobroma cacao Thecc.02G108800.1 (Malvales)
+Manihot esculenta Manes.07G070400.1 (Malpighiales)
+Manihot esculenta Manes.10G076993.1 (Malpighiales)
+Manihot esculenta Manes.10G077055.1 (Malpighiales)
+Beta vulgaris Bevul.9G233300.1 (Caryophyllales)
+Mimulus guttatus MgTOL.B0389.1 (Lamiales)
+Solanum lycopersicum Solyc12T002629.1 (Solanales)
+Solanum lycopersicum Solyc08T000414.1 (Solanales)
+Solanum lycopersicum Solyc01T003944.1 (Solanales)
+Coffea arabica evm.model.Scaffold 624.1236 (Gentianales)
+Coffea arabica evm.model.Scaffold 623.219 (Gentianales)
+Coffea arabica evm.model.Scaffold 634.1079 (Gentianales)
+Coffea arabica evm.model.Scaffold 634.602 (Gentianales)
+Coffea arabica evm.model.Scaffold 2527.6 (Gentianales)
+Ehretia anacua EhanaH1.04G147300.1 (Boraginales)
+Ehretia anacua EhanaH1.04G147400.1 (Boraginales)
+Ehretia anacua EhanaH1.04G147500.1 (Boraginales)
+Ehretia anacua EhanaH1.04G147600.1 (Boraginales)
+Ehretia anacua EhanaH1.04G148100.1 (Boraginales)
+Arabidopsis thaliana UGT84A1 (Brassicales)
+Arabidopsis thaliana UGT84A2 (Brassicales)
+Arabidopsis thaliana UGT84A3 (Brassicales)
+Arabidopsis thaliana UGT84A4 (Brassicales)
+Lactuca sativa Lsat 1 v5 gn 5 116201.1 (Asterales)
+Lactuca sativa Lsat 1 v5 gn 5 113800.1 (Asterales)
+Daucus carota DCAR 933429.mRNA (Apiales)
+Daucus carota DCAR 933430.mRNA (Apiales)
+Daucus carota DCAR 933432.mRNA (Apiales)
+Daucus carota DCAR 933433.mRNA (Apiales)
+Daucus carota DCAR 933431.mRNA (Apiales)
+Cucumis sativus Cucsa.231190.1 (Cucurbitales)
+Cucumis sativus Cucsa.219460.1 (Cucurbitales)
+Cucumis sativus Cucsa.219470.1 (Cucurbitales)
+Medicago truncatula UGT84F1(Fabales)
+Linum usitatissimum UGT84G1(Malpighiales)
+Aquilegia coerulea Aqcoe6G306700.1 (Ranunculales)
+Aquilegia coerulea Aqcoe6G301900.1 (Ranunculales)
+Aquilegia coerulea Aqcoe6G306800.1 (Ranunculales)
+Acorus americanus Acora.06G238700.1 (Acorales)
+Oryza sativa UGT84E1 (Poales)
+Oryza sativa UGT84D1 (Poales)
+Dioscorea alata Dioal.09G044600.1 (Dioscoreales)
+Oryza sativa UGT84C1 (Poales)
+Musa acuminata GSMUA Achr1T09740 001 (Zingiberales)
+Cinnamomum kanehirae CKAN 00655000 (Laurales)
+Liriodendron tulipifera Litul.19G048200.1 (Magnoliales)
+Liriodendron tulipifera Litul.09G076600.1 (Magnoliales)
+Amborella trichopoda AmTrH1.11G054800.1 (Amborellales)
+Nymphaea colorata Nycol.I01054.1 (Nymphaeales)
+Cicer arietinum UGT84H1(Fabales)
+Arachis hypogaea arahy.Tifrunner.gnm1.ann1.L4BQXH.1 (Fabales)
+Anacardium occidentale Anaoc.0001s0811.1 (Sapindales)
+Arabidopsis thaliana UGT84B1 (Brassicales)
+Arabidopsis thaliana UGT84B2 (Brassicales)
+Beta vulgaris Bevul.9G233400.1 (Caryophyllales)
+Hydrangea quercifolia Hyque.17G122000.1 (Cornales)
+Theobroma cacao Thecc.02G108700.1 (Malvales)
+Manihot esculenta Manes.10G076962.1 (Malpighiales)
+Eucalyptus camaldulensis UGT84J3 (Myrtales)
+Eucalyptus camaldulensis UGT84J4 (Myrtales)
+Eucalyptus camaldulensis UGT84J5 (Myrtales)
+Asparagus officinalis evm.model.AsparagusV1 04.1852 (Asparagales)
+Zostera marina Zosma01g22580.1 (Alismatales)
+100
+100
+92
+100
+80
+100
+89
+92
+100
+100
+64
+99
+100
+100
+96
+100
+100
+99
+100
+76
+65
+100
+97
+60
+93
+94
+77
+100
+65
+100
+99
+100
+99
+100
+83
+100
+100
+81 82
+99
+100
+97
+98
+100
+89
+93
+74
+96
+75
+0.10
+UGT84A
+
+===== SOURCE: plantbiotechnology-41-3-24.0601a-s001.pdf; PDF page 4 =====

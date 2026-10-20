@@ -1,0 +1,64 @@
+LOCUS       AII32448                 502 aa            linear   PLN 04-AUG-2014
+DEFINITION  hydroxycinnamate glycosyltransferase [Populus fremontii x Populus
+            angustifolia].
+ACCESSION   AII32448
+VERSION     AII32448.1
+DBSOURCE    accession KF552072.1
+KEYWORDS    .
+SOURCE      Populus fremontii x Populus angustifolia
+  ORGANISM  Populus fremontii x Populus angustifolia
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Malpighiales; Salicaceae; Saliceae;
+            Populus.
+REFERENCE   1  (residues 1 to 502)
+  AUTHORS   Babst,B.A., Chen,H.Y., Wang,H.Q., Payyavula,R.S., Thomas,T.P.,
+            Harding,S.A. and Tsai,C.J.
+  TITLE     Stress-responsive hydroxycinnamate glycosyltransferase modulates
+            phenylpropanoid metabolism in Populus
+  JOURNAL   J. Exp. Bot. 65 (15), 4191-4200 (2014)
+   PUBMED   24803501
+REFERENCE   2  (residues 1 to 502)
+  AUTHORS   Babst,B.A. and Tsai,C.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2013) Warnell School of Forestry and Natural
+            Resources and Department of Genetics, University of Georgia, 120
+            Green Street, Athens, GA 30602, USA
+FEATURES             Location/Qualifiers
+     source          1..502
+                     /organism="Populus fremontii x Populus angustifolia"
+                     /db_xref="taxon:352374"
+     Protein         1..502
+                     /product="hydroxycinnamate glycosyltransferase"
+     Region          1..465
+                     /region_name="PLN02555"
+                     /note="limonoid glucosyltransferase"
+                     /db_xref="CDD:178170"
+     Site            order(18..19,21,168,171..172,176,198,283,359,361,363..364,
+                     367)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(18,283,359,361,363..364)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            19
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..502
+                     /gene="GT1-316"
+                     /locus_tag="UGT84A17"
+                     /coded_by="KF552072.1:69..1577"
+ORIGIN      
+        1 mvseslghlf lvsfpgqghv npllrlgkil askgflvtfs ttettgeqmr kasdiidklt
+       61 pfgdgfirfe fiadgweede prrqdldqyl lqlelvgkqv ipqmikknae qgrpvsclin
+      121 npfipwvtdv attlglpsam lwvqscacfa syyhyyhgtv pfpdeehpei dvqlpwmpll
+      181 kydevpsyly pttpypflrr ailgqyknld kpfcilmetf eelepelikh mseifpikav
+      241 gplfrntkap kttvhgdflk addciewldt kppssvvyvs fgsvvqlkqd qwneiaygll
+      301 nsgvsfllvm kpahkdaghd llvlpdgfle kagdrgkvvq wspqekvlgh psvacfvthc
+      361 gwnstmealt sgmpvvafpq wgdqvtnaky lvdilkvgvr mcrgeaenkl itrdeiekcl
+      421 leatvgpkav emkqnamkwk eaaeaavaeg gssdqniryf tddivkanes eiarkcigsn
+      481 efpvsvvvks nekvdelvgs sa
+//
+

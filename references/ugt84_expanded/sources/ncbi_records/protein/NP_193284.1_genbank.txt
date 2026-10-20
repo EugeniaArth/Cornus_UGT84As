@@ -1,0 +1,168 @@
+LOCUS       NP_193284                479 aa            linear   PLN 20-OCT-2022
+DEFINITION  UDP-Glycosyltransferase superfamily protein [Arabidopsis thaliana].
+ACCESSION   NP_193284
+VERSION     NP_193284.1
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+DBSOURCE    REFSEQ: accession NM_117639.3
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 479)
+  AUTHORS   Mayer,K., Schuller,C., Wambutt,R., Murphy,G., Volckaert,G.,
+            Pohl,T., Dusterhoft,A., Stiekema,W., Entian,K.D., Terryn,N.,
+            Harris,B., Ansorge,W., Brandt,P., Grivell,L., Rieger,M.,
+            Weichselgartner,M., de Simone,V., Obermaier,B., Mache,R.,
+            Muller,M., Kreis,M., Delseny,M., Puigdomenech,P., Watson,M.,
+            Schmidtheini,T., Reichert,B., Portatelle,D., Perez-Alonso,M.,
+            Boutry,M., Bancroft,I., Vos,P., Hoheisel,J., Zimmermann,W.,
+            Wedler,H., Ridley,P., Langham,S.A., McCullagh,B., Bilham,L.,
+            Robben,J., Van der Schueren,J., Grymonprez,B., Chuang,Y.J.,
+            Vandenbussche,F., Braeken,M., Weltjens,I., Voet,M., Bastiaens,I.,
+            Aert,R., Defoor,E., Weitzenegger,T., Bothe,G., Ramsperger,U.,
+            Hilbert,H., Braun,M., Holzer,E., Brandt,A., Peters,S., van
+            Staveren,M., Dirske,W., Mooijman,P., Klein Lankhorst,R., Rose,M.,
+            Hauf,J., Kotter,P., Berneiser,S., Hempel,S., Feldpausch,M.,
+            Lamberth,S., Van den Daele,H., De Keyser,A., Buysshaert,C.,
+            Gielen,J., Villarroel,R., De Clercq,R., Van Montagu,M., Rogers,J.,
+            Cronin,A., Quail,M., Bray-Allen,S., Clark,L., Doggett,J., Hall,S.,
+            Kay,M., Lennard,N., McLay,K., Mayes,R., Pettett,A.,
+            Rajandream,M.A., Lyne,M., Benes,V., Rechmann,S., Borkova,D.,
+            Blocker,H., Scharfe,M., Grimm,M., Lohnert,T.H., Dose,S., de
+            Haan,M., Maarse,A., Schafer,M., Muller-Auer,S., Gabel,C., Fuchs,M.,
+            Fartmann,B., Granderath,K., Dauner,D., Herzl,A., Neumann,S.,
+            Argiriou,A., Vitale,D., Liguori,R., Piravandi,E., Massenet,O.,
+            Quigley,F., Clabauld,G., Mundlein,A., Felber,R., Schnabl,S.,
+            Hiller,R., Schmidt,W., Lecharny,A., Aubourg,S., Chefdor,F.,
+            Cooke,R., Berger,C., Montfort,A., Casacuberta,E., Gibbons,T.,
+            Weber,N., Vandenbol,M., Bargues,M., Terol,J., Torres,A.,
+            Perez-Perez,A., Purnelle,B., Bent,E., Johnson,S., Tacon,D.,
+            Jesse,T., Heijnen,L., Schwarz,S., Scholler,P., Heber,S., Francs,P.,
+            Bielke,C., Frishman,D., Haase,D., Lemcke,K., Mewes,H.W.,
+            Stocker,S., Zaccaria,P., Bevan,M., Wilson,R.K., de la Bastide,M.,
+            Habermann,K., Parnell,L., Dedhia,N., Gnoj,L., Schutz,K., Huang,E.,
+            Spiegel,L., Sehkon,M., Murray,J., Sheet,P., Cordes,M.,
+            Abu-Threideh,J., Stoneking,T., Kalicki,J., Graves,T., Harmon,G.,
+            Edwards,J., Latreille,P., Courtney,L., Cloud,J., Abbott,A.,
+            Scott,K., Johnson,D., Minx,P., Bentley,D., Fulton,B., Miller,N.,
+            Greco,T., Kemp,K., Kramer,J., Fulton,L., Mardis,E., Dante,M.,
+            Pepin,K., Hillier,L., Nelson,J., Spieth,J., Ryan,E., Andrews,S.,
+            Geisel,C., Layman,D., Du,H., Ali,J., Berghoff,A., Jones,K.,
+            Drone,K., Cotton,M., Joshu,C., Antonoiu,B., Zidanic,M., Strong,C.,
+            Sun,H., Lamar,B., Yordan,C., Ma,P., Zhong,J., Preston,R., Vil,D.,
+            Shekher,M., Matero,A., Shah,R., Swaby,I.K., O'Shaughnessy,A.,
+            Rodriguez,M., Hoffmann,J., Till,S., Granat,S., Shohdy,N.,
+            Hasegawa,A., Hameed,A., Lodhi,M., Johnson,A., Chen,E., Marra,M.,
+            Martienssen,R. and McCombie,W.R.
+  TITLE     Sequence and analysis of chromosome 4 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 769-777 (1999)
+   PUBMED   10617198
+REFERENCE   2  (residues 1 to 479)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (residues 1 to 479)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (residues 1 to 479)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            The reference sequence is identical to AEE83610.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..479
+                     /organism="Arabidopsis thaliana"
+                     /db_xref="taxon:3702"
+                     /chromosome="4"
+                     /ecotype="Columbia"
+     Protein         1..479
+                     /product="UDP-Glycosyltransferase superfamily protein"
+                     /calculated_mol_wt=53782
+     Region          1..479
+                     /region_name="PLN02555"
+                     /note="limonoid glucosyltransferase"
+                     /db_xref="CDD:178170"
+     Site            order(18..19,21,168,171..172,176,213,289,361,363,365..366,
+                     369)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(18,289,361,363,365..366)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            19
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..479
+                     /gene="UGT84A3"
+                     /locus_tag="AT4G15490"
+                     /gene_synonym="DL3785C; FCAALL.17"
+                     /coded_by="NM_117639.3:404..1843"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR223795.1,INSD:AV791565.1,INSD:BP646153.1,
+                     INSD:BP816774.1,INSD:CK119316.1,INSD:AV793244.1,
+                     INSD:BP831243.1,INSD:EL045309.1,INSD:AV809948.1,
+                     INSD:DR223796.1,INSD:AV818642.1,INSD:DR223797.1,
+                     INSD:AV823415.1,INSD:EL211993.1,INSD:AV817804.1,
+                     INSD:BP861104.1,INSD:BP815261.1,INSD:EL187811.1,
+                     INSD:BE523770.1,INSD:AV829469.1,INSD:CF774277.1,
+                     INSD:BP586026.1,INSD:CB259745.1,INSD:BP847115.1,
+                     INSD:DR223793.1,INSD:DR375529.1,INSD:BP825136.1,
+                     INSD:BP627416.1,INSD:BP822882.1,INSD:BP825196.1,
+                     INSD:DR223798.1,INSD:BP639441.1,INSD:N37973.1,
+                     INSD:DR223790.1,INSD:DR223791.1,INSD:BP655120.1,
+                     INSD:BP641193.1,INSD:AV531774.1,INSD:BE521150.1,
+                     INSD:AV829876.1,INSD:BP823840.1,INSD:AV831789.1,
+                     INSD:BX835775.1,INSD:CB260144.1,INSD:DR223799.1,
+                     INSD:BP830396.1,INSD:BP652709.1,INSD:BP840649.1,
+                     INSD:BP647308.1,INSD:DR223800.1,INSD:AV809057.1,
+                     INSD:DR223792.1,INSD:DR223789.1,INSD:DR223794.1,
+                     INSD:AV784375.1"
+                     /inference="Similar to RNA sequence,
+                     mRNA:INSD:BX826605.1,INSD:AY142676.1,INSD:BX827027.1,
+                     INSD:AY057646.1,INSD:AY087431.1,INSD:BX827781.1,
+                     INSD:AY074339.1"
+                     /note="UGT84A3; FUNCTIONS IN: UDP-glycosyltransferase
+                     activity, sinapate 1-glucosyltransferase activity,
+                     transferase activity, transferring glycosyl groups;
+                     INVOLVED IN: metabolic process; LOCATED IN:
+                     cellular_component unknown; EXPRESSED IN: 23 plant
+                     structures; EXPRESSED DURING: 14 growth stages; CONTAINS
+                     InterPro DOMAIN/s:
+                     UDP-glucuronosyl/UDP-glucosyltransferase
+                     (InterPro:IPR002213); BEST Arabidopsis thaliana protein
+                     match is: UDP-Glycosyltransferase superfamily protein
+                     (TAIR:AT4G15500.1); Has 8054 Blast hits to 7973 proteins
+                     in 495 species: Archae - 0; Bacteria - 428; Metazoa -
+                     2313; Fungi - 57; Plants - 5089; Viruses - 102; Other
+                     Eukaryotes - 65 (source: NCBI BLink)."
+                     /db_xref="GeneID:827221"
+                     /db_xref="TAIR:AT4G15490"
+                     /db_xref="Araport:AT4G15490"
+ORIGIN      
+        1 mdpsrhthvm lvsfpgqghv npllrlgkli askgllvtfv ttekpwgkkm rqankiqdgv
+       61 lkpvglgfir feffsdgfad ddekrfdfda frphleavgk qeiknlvkry nkepvtclin
+      121 nafvpwvcdv aeelhipsav lwvqscaclt ayyyyhhrlv kfptktepdi sveipclpll
+      181 khdeipsflh psspytafgd iildqlkrfe nhksfylfid tfrelekdim dhmsqlcpqa
+      241 iispvgplfk maqtlssdvk gdisepasdc mewldsreps svvyisfgti anlkqeqmee
+      301 iahgvlssgl svlwvvrppm egtfvephvl preleekgki vewcpqervl ahpaiacfls
+      361 hcgwnstmea ltagvpvvcf pqwgdqvtda vyladvfktg vrlgrgaaee mivsrevvae
+      421 klleatvgek avelrenarr wkaeaeaava dggssdmnfk efvdklvtkh vtredngeh
+//
+

@@ -1,0 +1,66 @@
+LOCUS       BAA93039                 511 aa            linear   PLN 09-MAR-2007
+DEFINITION  limonoid UDP-glucosyltransferase [Citrus unshiu].
+ACCESSION   BAA93039
+VERSION     BAA93039.1
+DBSOURCE    accession AB033758.1
+KEYWORDS    .
+SOURCE      Citrus unshiu (satsuma mandarin)
+  ORGANISM  Citrus unshiu
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Sapindales; Rutaceae; Aurantioideae;
+            Citrus.
+REFERENCE   1
+  AUTHORS   Kita,M., Hirata,Y., Moriguchi,T., Endo-Inagaki,T., Matsumoto,R.,
+            Hasegawa,S., Suhayda,C.G. and Omura,M.
+  TITLE     Molecular cloning and characterization of a novel gene encoding
+            limonoid UDP-glucosyltransferase in Citrus
+  JOURNAL   FEBS Lett. 469 (2-3), 173-178 (2000)
+   PUBMED   10713266
+REFERENCE   2  (residues 1 to 511)
+  AUTHORS   Omura,M., Inagaki,T., Matsumoto,R., Moriguchi,T., Hasegawa,S. and
+            Suhayda,C.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-OCT-1999) Mitsuo Omura, National Institute of Fruit
+            Tree Science, Department of Citriculture, Okitsu; Okitsu, Shimizu,
+            Shizuoka 424-0292, Japan (E-mail:om9330@affrc.go.jp,
+            Tel:81-543-69-7108, Fax:81-543-69-2115)
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Citrus unshiu"
+                     /cultivar="Miyagawa wase"
+                     /db_xref="taxon:55188"
+     Protein         1..511
+                     /product="limonoid UDP-glucosyltransferase"
+     Region          1..477
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:471961"
+     Site            order(18..19,21,168,171..172,176,211,283,359,361,363..364,
+                     367)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(18,283,359,361,363..364)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            19
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..511
+                     /gene="LGTase"
+                     /coded_by="AB033758.1:50..1585"
+ORIGIN      
+        1 mgteslvhvl lvsfpghghv npllrlgrll askgffltlt tpesfgkqmr kagnftyept
+       61 pvgdgfirfe ffedgwdedd prredldqym aqleligkqv ipkiikksae eyrpvsclin
+      121 npfipwvsdv aeslglpsam lwvqscacfa ayyhyfhglv pfpsekepei dvqlpcmpll
+      181 khdempsflh pstpypflrr ailgqyenlg kpfcilldtf yelekeiidy makicpikpv
+      241 gplfknpkap tltvrddcmk pdecidwldk kppssvvyis fgtvvylkqe qveeigyall
+      301 nsgisflwvm kpppedsgvk ivdlpdgfle kvgdkgkvvq wspqekvlah psvacfvthc
+      361 gwnstmesla sgvpvitfpq wgdqvtdamy lcdvfktglr lcrgeaenri isrdevekcl
+      421 leatagpkav aleenalkwk keaeeavadg gssdrniqaf vdevrrtsve iitssksksi
+      481 hrvkelvekt atatandkve lvesrrtrvq y
+//
+

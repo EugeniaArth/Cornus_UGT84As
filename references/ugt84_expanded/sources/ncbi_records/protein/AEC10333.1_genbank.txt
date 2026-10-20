@@ -1,0 +1,98 @@
+LOCUS       AEC10333                 449 aa            linear   PLN 23-MAR-2023
+DEFINITION  UDP-glycosyltransferase 74 F1 [Arabidopsis thaliana].
+ACCESSION   AEC10333
+VERSION     AEC10333.1
+DBLINK      BioProject: PRJNA10719
+            BioSample: SAMN03081427
+DBSOURCE    accession CP002685.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 449)
+  AUTHORS   Lin,X., Kaul,S., Rounsley,S., Shea,T.P., Benito,M.I., Town,C.D.,
+            Fujii,C.Y., Mason,T., Bowman,C.L., Barnstead,M., Feldblyum,T.V.,
+            Buell,C.R., Ketchum,K.A., Lee,J., Ronning,C.M., Koo,H.L.,
+            Moffat,K.S., Cronin,L.A., Shen,M., Pai,G., Van Aken,S., Umayam,L.,
+            Tallon,L.J., Gill,J.E., Adams,M.D., Carrera,A.J., Creasy,T.H.,
+            Goodman,H.M., Somerville,C.R., Copenhaver,G.P., Preuss,D.,
+            Nierman,W.C., White,O., Eisen,J.A., Salzberg,S.L., Fraser,C.M. and
+            Venter,J.C.
+  TITLE     Sequence and analysis of chromosome 2 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 761-768 (1999)
+   PUBMED   10617197
+REFERENCE   2  (residues 1 to 449)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+REFERENCE   3  (residues 1 to 449)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Arabidopsis thaliana"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     Protein         1..449
+                     /product="UDP-glycosyltransferase 74 F1"
+     Region          1..449
+                     /region_name="PLN02173"
+                     /note="UDP-glucosyl transferase family protein"
+                     /db_xref="CDD:177830"
+     Site            order(17..18,20,158,161..162,166,193,273,342,344,346..347,
+                     350)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(17,273,342,344,346..347)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            18
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..449
+                     /gene="UGT74F1"
+                     /locus_tag="AT2G43840"
+                     /gene_synonym="F18O19.5"
+                     /gene_synonym="UDP-glycosyltransferase 74 F1"
+                     /coded_by="join(CP002685.1:18157681..18158304,
+                     CP002685.1:18158441..18159166)"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:BP783100.1,INSD:EL031886.1,INSD:AV785218.1"
+                     /inference="similar to RNA sequence, mRNA:INSD:AK221589.1"
+                     /note="UDP-glycosyltransferase 74 F1 (UGT74F1); CONTAINS
+                     InterPro DOMAIN/s:
+                     UDP-glucuronosyl/UDP-glucosyltransferase
+                     (InterPro:IPR002213); BEST Arabidopsis thaliana protein
+                     match is: UDP-glucosyltransferase 74F2 (TAIR:AT2G43820.1);
+                     Has 8300 Blast hits to 8222 proteins in 540 species:
+                     Archae - 0; Bacteria - 767; Metazoa - 2272; Fungi - 26;
+                     Plants - 5053; Viruses - 115; Other Eukaryotes - 67
+                     (source: NCBI BLink)."
+                     /db_xref="Araport:AT2G43840"
+                     /db_xref="TAIR:AT2G43840"
+ORIGIN      
+        1 mekmrghvla vpfpsqghit pirqfckrlh skgfktthtl ttfifntihl dpsspisiat
+       61 isdgydqggf ssagsvpeyl qnfktfgskt vadiirkhqs tdnpitcivy dsfmpwaldl
+      121 amdfglaaap fftqscavny inylsyinng sltlpikdlp llelqdlptf vtptgshlay
+      181 femvlqqftn fdkadfvlvn sfhdldlhee ellskvcpvl tigptvpsmy ldqqiksdnd
+      241 ydlnlfdlke aalctdwldk rpegsvvyia fgsmaklsse qmeeiasais nfsylwvvra
+      301 seesklppgf letvdkdksl vlkwspqlqv lsnkaigcfm thcgwnstme glslgvpmva
+      361 mpqwtdqpmn akyiqdvwkv gvrvkaekes gickreeief sikevmegek skemkenagk
+      421 wrdlavksls eggstdinin efvskiqik
+//
+

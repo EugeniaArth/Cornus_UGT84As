@@ -1,0 +1,65 @@
+LOCUS       CAJ77650                 472 aa            linear   PLN 22-DEC-2006
+DEFINITION  hydroxycinnamate glucosyltransferase [Brassica napus].
+ACCESSION   CAJ77650
+VERSION     CAJ77650.1
+DBSOURCE    embl accession AM231594.1
+KEYWORDS    .
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1
+  AUTHORS   Mittasch,J., Strack,D. and Milkowski,C.
+  TITLE     Secondary product glycosyltransferases in seeds of Brassica napus
+  JOURNAL   Planta 225 (2), 515-522 (2007)
+   PUBMED   16909288
+REFERENCE   2  (residues 1 to 472)
+  AUTHORS   Milkowski,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-2006) Milkowski C., Secondary Metabolism, Leibniz
+            Institute of Plant Biochemistry, Weinberg 3, 06120 Halle (Saale),
+            GERMANY
+FEATURES             Location/Qualifiers
+     source          1..472
+                     /organism="Brassica napus"
+                     /cultivar="Express"
+                     /db_xref="taxon:3708"
+     Protein         1..472
+                     /product="hydroxycinnamate glucosyltransferase"
+     Region          1..469
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:471961"
+     Site            order(17..18,20,170,173..174,178,229,290,362,364,366..367,
+                     370)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(17,290,362,364,366..367)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            18
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..472
+                     /gene="UGT84A10"
+                     /coded_by="AM231594.1:1..1419"
+                     /experiment="heterologous expression in E. coli"
+                     /db_xref="GOA:Q2A660"
+                     /db_xref="InterPro:IPR002213"
+                     /db_xref="UniProtKB/TrEMBL:Q2A660"
+ORIGIN      
+        1 messlthvml vsfpsqghin pllrlgklia skgllvtfvt teeplgkkmr qaneiqdgll
+       61 kpvglgflrf effddgftld dlenkqksgl lftdlevagk reikklikry ekmkqpvrcv
+      121 innafvpwvc dvaaefqips avlwvqscac laayyyyqhq lakfptetep kinvevpfmp
+      181 lvlkhdeips flhpscrfsi ftdhilqqik rlpntfsvli dtfeelerdi idhmsqlcpe
+      241 viinpigplf mraktitsdi kgdisdsvnq cmewldskgp ssivyisfgt vvhvkqeqid
+      301 eiahgllnsg lsflwvvrpp ieglslethv lpreledkgm ivewcpqerv lahpavacfl
+      361 shcgwnstve alssgvpivc lpqwgdqvtn alylvdvfkt gvrlgrgead ekivsrevva
+      421 eklleavvgq kavelrenar rwkkeaeatv vhggssdrnf gefvdklvan ic
+//
+

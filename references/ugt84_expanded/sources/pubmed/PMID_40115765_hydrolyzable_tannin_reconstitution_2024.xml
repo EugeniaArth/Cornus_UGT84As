@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2025//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_250101.dtd">
+<PubmedArticleSet>
+<PubmedArticle><MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM"><PMID Version="1">40115765</PMID><DateRevised><Year>2025</Year><Month>03</Month><Day>22</Day></DateRevised><Article PubModel="Print"><Journal><ISSN IssnType="Print">1342-4580</ISSN><JournalIssue CitedMedium="Print"><Volume>41</Volume><Issue>3</Issue><PubDate><Year>2024</Year><Month>Sep</Month><Day>25</Day></PubDate></JournalIssue><Title>Plant biotechnology (Tokyo, Japan)</Title><ISOAbbreviation>Plant Biotechnol (Tokyo)</ISOAbbreviation></Journal><ArticleTitle>Elucidation and reconstitution of hydrolyzable tannin biosynthesis.</ArticleTitle><Pagination><StartPage>203</StartPage><EndPage>212</EndPage><MedlinePgn>203-212</MedlinePgn></Pagination><ELocationID EIdType="doi" ValidYN="Y">10.5511/plantbiotechnology.24.0601a</ELocationID><Abstract><AbstractText>Hydrolyzable tannins (HTs) are a class of polyphenols produced mostly in core eudicot plants. They accumulate in various plant tissues and are considered to function as defense compounds that protect against herbivory, infections, and toxic metals (specifically aluminum ions). Moreover, HTs have industrial and pharmaceutical uses that benefit humans. Elucidating and reconstituting the biosynthesis of HTs is necessary for genetically engineering in planta functions and for efficiently producing HTs for human use. The biosynthesis of HTs is initiated by the formation of gallic acid from the shikimate pathway intermediate 3-dehydroshikimic acid, which is catalyzed by bifunctional dehydroquinate dehydratase/shikimate dehydrogenases (DQD/SDHs). In the second step, UDP glycosyltransferases (UGTs) esterify gallic acid with glucose to form &#x3b2;-glucogallin (1-<i>O</i>-galloyl-&#x3b2;-D-glucose). &#x3b2;-glucogallin is then converted to 1,2,3,4,6-penta-<i>O</i>-galloyl-&#x3b2;-D-glucose through a series of galloylation steps that are catalyzed by galloyltransferases, using &#x3b2;-glucogallin as a galloyl donor. Laccases subsequently catalyze the oxidative coupling between adjacent galloyl groups to form hexahydroxydiphenoyl (HHDP) groups, which are characteristic components of ellagitannins. Furthermore, monomeric ellagitannins can undergo oligomerization via intermolecular oxidative coupling, which is also catalyzed by laccases. To reconstitute the HT biosynthetic pathway in HT-non-accumulating plants, <i>DQD</i>/<i>SDH</i>s and <i>UGT</i>s from <i>Eucalyptus camaldulensis</i> were heterologously co-expressed in <i>Nicotiana benthamiana</i> leaves, which resulted in the production of gallic acid and &#x3b2;-glucogallin. In future studies, this transgenic system will be used to identify genes encoding galloyltransferases and laccases to further elucidate and reconstitute the HT biosynthetic pathway.</AbstractText><CopyrightInformation>&#xa9; 2024 Japanese Society for Plant Biotechnology.</CopyrightInformation></Abstract><AuthorList CompleteYN="Y"><Author ValidYN="Y"><LastName>Tahara</LastName><ForeName>Ko</ForeName><Initials>K</Initials><AffiliationInfo><Affiliation>Department of Forest Molecular Genetics and Biotechnology, Forestry and Forest Products Research Institute (FFPRI), 1 Matsunosato, Tsukuba, Ibaraki 305-8687, Japan.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Milkowski</LastName><ForeName>Carsten</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Martin Luther University Halle-Wittenberg, AGRIPOLY: International Graduate School in Agricultural and Polymer Sciences, Betty-Heimann-Stra&#xdf;e 3, D-06120 Halle, Germany.</Affiliation></AffiliationInfo></Author><Author ValidYN="Y"><LastName>Oda-Yamamizo</LastName><ForeName>Chihiro</ForeName><Initials>C</Initials><AffiliationInfo><Affiliation>Department of Forest Molecular Genetics and Biotechnology, Forestry and Forest Products Research Institute (FFPRI), 1 Matsunosato, Tsukuba, Ibaraki 305-8687, Japan.</Affiliation></AffiliationInfo></Author></AuthorList><Language>eng</Language><PublicationTypeList><PublicationType UI="D016428">Journal Article</PublicationType></PublicationTypeList></Article><MedlineJournalInfo><Country>Japan</Country><MedlineTA>Plant Biotechnol (Tokyo)</MedlineTA><NlmUniqueID>101233156</NlmUniqueID><ISSNLinking>1342-4580</ISSNLinking></MedlineJournalInfo><KeywordList Owner="NOTNLM"><Keyword MajorTopicYN="N">biosynthetic pathway</Keyword><Keyword MajorTopicYN="N">ellagitannin</Keyword><Keyword MajorTopicYN="N">gallic acid</Keyword><Keyword MajorTopicYN="N">gallotannin</Keyword><Keyword MajorTopicYN="N">metabolic engineering</Keyword></KeywordList><CoiStatement>Conflict of interestThere are no conflicts of interest.</CoiStatement></MedlineCitation><PubmedData><History><PubMedPubDate PubStatus="received"><Year>2024</Year><Month>1</Month><Day>9</Day></PubMedPubDate><PubMedPubDate PubStatus="accepted"><Year>2024</Year><Month>6</Month><Day>1</Day></PubMedPubDate><PubMedPubDate PubStatus="medline"><Year>2025</Year><Month>3</Month><Day>21</Day><Hour>11</Hour><Minute>17</Minute></PubMedPubDate><PubMedPubDate PubStatus="pubmed"><Year>2025</Year><Month>3</Month><Day>21</Day><Hour>11</Hour><Minute>16</Minute></PubMedPubDate><PubMedPubDate PubStatus="entrez"><Year>2025</Year><Month>3</Month><Day>21</Day><Hour>5</Hour><Minute>7</Minute></PubMedPubDate><PubMedPubDate PubStatus="pmc-release"><Year>2024</Year><Month>9</Month><Day>25</Day></PubMedPubDate></History><PublicationStatus>ppublish</PublicationStatus><ArticleIdList><ArticleId IdType="pubmed">40115765</ArticleId><ArticleId IdType="pmc">PMC11921145</ArticleId><ArticleId IdType="doi">10.5511/plantbiotechnology.24.0601a</ArticleId></ArticleIdList><ReferenceList><Reference><Citation>Agrawal AA, Hastings AP, Johnson MTJ, Maron JL, Salminen JP (2012) Insect herbivores drive real-time ecological and evolutionary change in plant populations.
+<i>Science</i>
+338: 113&#x2013;116
+</Citation><ArticleIdList><ArticleId IdType="pubmed">23042894</ArticleId></ArticleIdList></Reference><Reference><Citation>Akagi T, Ikegami A, Suzuki Y, Yoshida J, Yamada M, Sato A, Yonemori M (2009) Expression balances of structural genes in shikimate and flavonoid biosynthesis cause a difference in proanthocyanidin accumulation in persimmon (<i>Diospyros kaki</i> Thunb.) fruit.
+<i>Planta</i>
+230: 899&#x2013;915
+</Citation><ArticleIdList><ArticleId IdType="pubmed">19669159</ArticleId></ArticleIdList></Reference><Reference><Citation>Akagi T, Katayama-Ikegami A, Yonemori K (2011) Proanthocyanidin biosynthesis of persimmon (<i>Diospyros kaki</i> Thunb.) fruit.
+<i>Sci Hortic (Amsterdam)</i>
+130: 373&#x2013;380</Citation></Reference><Reference><Citation>Atanasov AG, Waltenberger B, Pferschy-Wenzig EM, Linder T, Wawrosch C, Uhrin P, Temml V, Wang L, Schwaiger S, Heiss EH, et al. (2015) Discovery and resupply of pharmacologically active plant-derived natural products: A review.
+<i>Biotechnol Adv</i>
+33: 1582&#x2013;1614
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4748402</ArticleId><ArticleId IdType="pubmed">26281720</ArticleId></ArticleIdList></Reference><Reference><Citation>Barbehenn RV, Constabel CP (2011) Tannins in plant-herbivore interactions.
+<i>Phytochemistry</i>
+72: 1551&#x2013;1565
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21354580</ArticleId></ArticleIdList></Reference><Reference><Citation>Birchfield AS, McIntosh CA (2020) Metabolic engineering and synthetic biology of plant natural products: A minireview.
+<i>Curr Plant Biol</i>
+24: 100163</Citation></Reference><Reference><Citation>Bischoff M, Schaller A, Bieri F, Kessler F, Amrhein N, Schmid J (2001) Molecular characterization of tomato 3-dehydroquinate dehydratase-shikimate:NADP oxidoreductase.
+<i>Plant Physiol</i>
+125: 1891&#x2013;1900
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC88844</ArticleId><ArticleId IdType="pubmed">11299368</ArticleId></ArticleIdList></Reference><Reference><Citation>Bontpart T, Ferrero M, Khater F, Marlin T, Vialet S, Vallverdu-Queralt A, Pinasseau L, Ageorges A, Cheynier V, Terrier N (2018) Focus on putative serine carboxypeptidase-like acyltransferases in grapevine.
+<i>Plant Physiol Biochem</i>
+130: 356&#x2013;366
+</Citation><ArticleIdList><ArticleId IdType="pubmed">30055344</ArticleId></ArticleIdList></Reference><Reference><Citation>Bontpart T, Marlin T, Vialet S, Guiraud JL, Pinasseau L, Meudec E, Sommerer N, Cheynier V, Terrier N (2016) Two shikimate dehydrogenases, VvSDH3 and VvSDH4, are involved in gallic acid biosynthesis in grapevine.
+<i>J Exp Bot</i>
+67: 3537&#x2013;3550
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4892741</ArticleId><ArticleId IdType="pubmed">27241494</ArticleId></ArticleIdList></Reference><Reference><Citation>Buzzini P, Arapitsas P, Goretti M, Branda E, Turchetti B, Pinelli P, Ieri F, Romani A (2008) Antimicrobial and antiviral activity of hydrolysable tannins.
+<i>Mini Rev Med Chem</i>
+8: 1179&#x2013;1187
+</Citation><ArticleIdList><ArticleId IdType="pubmed">18855732</ArticleId></ArticleIdList></Reference><Reference><Citation>Carrier G, Huang YF, Cunff LL, Fournier-Level A, Vialet S, Souquet JM, Cheynier V, Terrier N, This P (2013) Selection of candidate genes for grape proanthocyanidin pathway by an integrative approach.
+<i>Plant Physiol Biochem</i>
+72: 87&#x2013;95
+</Citation><ArticleIdList><ArticleId IdType="pubmed">23684499</ArticleId></ArticleIdList></Reference><Reference><Citation>Carrington Y, Guo J, Le CH, Fillo A, Kwon J, Tran LT, Ehlting J (2018) Evolution of a secondary metabolic pathway from primary metabolism: shikimate and quinate biosynthesis in plants.
+<i>Plant J</i>
+95: 823&#x2013;833</Citation><ArticleIdList><ArticleId IdType="pubmed">29894016</ArticleId></ArticleIdList></Reference><Reference><Citation>Chang L, Wu S, Tian L (2021) Methyl jasmonate elicits distinctive hydrolyzable tannin, flavonoid, and phyto-oxylipin responses in pomegranate (<i>Punica granatum</i> L.) leaves.
+<i>Planta</i>
+254: 89.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8481150</ArticleId><ArticleId IdType="pubmed">34586513</ArticleId></ArticleIdList></Reference><Reference><Citation>Ciarkowska A, Ostrowski M, Starzynska E, Jakubowska A (2019) Plant SCPL acyltransferases: Multiplicity of enzymes with various functions in secondary metabolism.
+<i>Phytochem Rev</i>
+18: 303&#x2013;316</Citation></Reference><Reference><Citation>Cui L, Yao S, Dai X, Yin Q, Liu Y, Jiang X, Wu Y, Qian Y, Pang Y, Gao L, et al. (2016) Identification of UDP-glycosyltransferases involved in the biosynthesis of astringent taste compounds in tea (<i>Camellia sinensis</i>).
+<i>J Exp Bot</i>
+67: 2285&#x2013;2297
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4809296</ArticleId><ArticleId IdType="pubmed">26941235</ArticleId></ArticleIdList></Reference><Reference><Citation>Dai X, Liu Y, Zhuang J, Yao S, Liu L, Jiang X, Zhou K, Wang Y, Xie D, Bennetzen JL, et al. (2020) Discovery and characterization of tannase genes in plants: roles in hydrolysis of tannins.
+<i>New Phytol</i>
+226: 1104&#x2013;1116
+</Citation><ArticleIdList><ArticleId IdType="pubmed">32061142</ArticleId></ArticleIdList></Reference><Reference><Citation>Denzel K, Gross GG (1991) Biosynthesis of gallotannins: Enzymatic &#x2018;disproportionation&#x2019; of 1,6-digalloylglucose to 1,2,6-trigalloylglucose and 6-galloylglucose by an acyltransferase from leaves of <i>Rhus typhina</i> L.
+<i>Planta</i>
+184: 285&#x2013;289
+</Citation><ArticleIdList><ArticleId IdType="pubmed">24194082</ArticleId></ArticleIdList></Reference><Reference><Citation>Ding L, Hofius D, Hajirezaei M-R, Fernie AR, B&#xf6;rnke F, Sonnewald U (2007) Functional analysis of the essential bifunctional tobacco enzyme 3-dehydroquinate dehydratase/shikimate dehydrogenase in transgenic tobacco plants.
+<i>J Exp Bot</i>
+58: 2053&#x2013;2067
+</Citation><ArticleIdList><ArticleId IdType="pubmed">17463052</ArticleId></ArticleIdList></Reference><Reference><Citation>Drula E, Garron M-L, Dogan S, Lombard V, Henrissat B, Terrapon N (2022) The carbohydrate-active enzyme database: Functions and literature.
+<i>Nucleic Acids Res</i>
+50(D1): D571&#x2013;D577
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8728194</ArticleId><ArticleId IdType="pubmed">34850161</ArticleId></ArticleIdList></Reference><Reference><Citation>Falc&#xe3;o L, Ara&#xfa;jo MEM (2018) Vegetable tannins used in the manufacture of historic leathers.
+<i>Molecules</i>
+23: 1081.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6099987</ArticleId><ArticleId IdType="pubmed">29751585</ArticleId></ArticleIdList></Reference><Reference><Citation>Gritsunov A, Peek J, Caballero JD, Guttman D, Christendat D (2018) Structural and biochemical approaches uncover multiple evolutionary trajectories of plant quinate dehydrogenases.
+<i>Plant J</i>
+95: 812&#x2013;822</Citation><ArticleIdList><ArticleId IdType="pubmed">29890023</ArticleId></ArticleIdList></Reference><Reference><Citation>Gross GG (1982) Synthesis of &#x3b2;-glucogallin from UDP-glucose and gallic acid by an enzyme preparation from oak leaves.
+<i>FEBS Lett</i>
+148: 67&#x2013;70</Citation></Reference><Reference><Citation>Gross GG (1983) Partial purification and properties of UDP-glucose:vanillate 1-<i>O</i>-glucosyltransferase from oak leaves.
+<i>Phytochemistry</i>
+22: 2179&#x2013;2182</Citation></Reference><Reference><Citation>Gross GG (2009) Biosynthesis of ellagitannins: Old ideas and new solutions. In: Quideau S (ed) <i>Chemistry and Biology of Ellagitannins. An Underestimated Class of Bioactive Plant Polyphenols</i>. World Scientific Publishing, Singapore, pp 94&#x2013;118</Citation></Reference><Reference><Citation>Grundh&#xf6;fer P, Niemetz R, Schilling G, Gross GG (2001) Biosynthesis and subcellular distribution of hydrolyzable tannins.
+<i>Phytochemistry</i>
+57: 915&#x2013;927
+</Citation><ArticleIdList><ArticleId IdType="pubmed">11423141</ArticleId></ArticleIdList></Reference><Reference><Citation>Guo J, Carrington Y, Alber A, Ehlting J (2014) Molecular characterization of quinate and shikimate metabolism in <i>Populus trichocarpa.</i>
+<i>J Biol Chem</i>
+289: 23846&#x2013;23858
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4156088</ArticleId><ArticleId IdType="pubmed">24942735</ArticleId></ArticleIdList></Reference><Reference><Citation>Habashi R, Hacham Y, Dhakarey R, Matityahu I, Holland D, Tian L, Amir R (2019) Elucidating the role of shikimate dehydrogenase in controlling the production of anthocyanins and hydrolysable tannins in the outer peels of pomegranate.
+<i>BMC Plant Biol</i>
+19: 476.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6836501</ArticleId><ArticleId IdType="pubmed">31694546</ArticleId></ArticleIdList></Reference><Reference><Citation>Hagerman AE, Zhao Y, Johnson S (1997) Methods for determination of condensed and hydrolyzable tannins. In: Shahidi F (ed) <i>Antinutrients and Phytochemicals in Food</i>. American Chemical Society, Washington, DC, pp 209&#x2013;222</Citation></Reference><Reference><Citation>Haslam E (2007) Vegetable tannins: Lessons of a phytochemical lifetime.
+<i>Phytochemistry</i>
+68: 2713&#x2013;2721
+</Citation><ArticleIdList><ArticleId IdType="pubmed">18037145</ArticleId></ArticleIdList></Reference><Reference><Citation>Huang K, Li M, Liu Y, Zhu M, Zhao G, Zhou Y, Zhang L, Wu Y, Dai X, Xia T, et al. (2019) Functional analysis of 3-dehydroquinate dehydratase/shikimate dehydrogenases involved in shikimate pathway in <i>Camellia sinensis.</i>
+<i>Front Plant Sci</i>
+10: 1268.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC6797610</ArticleId><ArticleId IdType="pubmed">31681371</ArticleId></ArticleIdList></Reference><Reference><Citation>Huang YF, Doligez A, Fournier-Level A, Le Cunff L, Bertrand Y, Canaguier A, Morel C, Miralles V, Veran F, Souquet JM, et al. (2012) Dissecting genetic architecture of grape proanthocyanidin composition through quantitative trait locus mapping.
+<i>BMC Plant Biol</i>
+12: 30.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3312867</ArticleId><ArticleId IdType="pubmed">22369244</ArticleId></ArticleIdList></Reference><Reference><Citation>Hughes J, Hughes MA (1994) Multiple secondary plant product UDP-glucose glucosyltransferase genes expressed in cassava.
+<i>DNA Seq</i>
+5: 41&#x2013;49
+</Citation><ArticleIdList><ArticleId IdType="pubmed">7894058</ArticleId></ArticleIdList></Reference><Reference><Citation>Ikegami A, Eguchi S, Kitajima A, Inoue K, Yonemori K (2007) Identification of genes involved in proanthocyanidin biosynthesis of persimmon (<i>Diospyros kaki</i>) fruit.
+<i>Plant Sci</i>
+172: 1037&#x2013;1047</Citation></Reference><Reference><Citation>Ito H (2011) Metabolites of the ellagitannin geraniin and their antioxidant activities.
+<i>Planta Med</i>
+77: 1110&#x2013;1115
+</Citation><ArticleIdList><ArticleId IdType="pubmed">21294073</ArticleId></ArticleIdList></Reference><Reference><Citation>Ito H, Li P, Koreishi M, Nagatomo A, Nishida N, Yoshida T (2014) Ellagitannin oligomers and a neolignan from pomegranate arils and their inhibitory effects on the formation of advanced glycation end products.
+<i>Food Chem</i>
+152: 323&#x2013;330
+</Citation><ArticleIdList><ArticleId IdType="pubmed">24444944</ArticleId></ArticleIdList></Reference><Reference><Citation>Jiang X, Liu Y, Li W, Zhao L, Meng F, Wang Y, Tan H, Yang H, Wei C, Wan X, et al. (2013) Tissue-specific, development-dependent phenolic compounds accumulation profile and gene expression pattern in tea plant [<i>Camellia sinensis</i>].
+<i>PLoS One</i>
+8: e62315.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3639974</ArticleId><ArticleId IdType="pubmed">23646127</ArticleId></ArticleIdList></Reference><Reference><Citation>Khater F, Fournand D, Vialet S, Meudec E, Cheynier V, Terrier N (2012) Identification and functional characterization of cDNAs coding for hydroxybenzoate/hydroxycinnamate glucosyltransferases co-expressed with genes related to proanthocyanidin biosynthesis.
+<i>J Exp Bot</i>
+63: 1201&#x2013;1214
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3276084</ArticleId><ArticleId IdType="pubmed">22090445</ArticleId></ArticleIdList></Reference><Reference><Citation>Liu Y, Gao L, Liu L, Yang Q, Lu Z, Nie Z, Wang Y, Xia T (2012) Purification and characterization of a novel galloyltransferase involved in catechin galloylation in the tea plant (<i>Camellia sinensis</i>).
+<i>J Biol Chem</i>
+287: 44406&#x2013;44417
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3531754</ArticleId><ArticleId IdType="pubmed">23132863</ArticleId></ArticleIdList></Reference><Reference><Citation>Lunkenbein S, Bellido M, Aharoni A, Salentijn EMJ, Kaldenhoff R, Coiner HA, Mu&#xf1;oz-Blanco J, Schwab W (2006) Cinnamate metabolism in ripening fruit. Characterization of a UDP-glucose:cinnamate glucosyltransferase from strawberry.
+<i>Plant Physiol</i>
+140: 1047&#x2013;1058
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC1400576</ArticleId><ArticleId IdType="pubmed">16443693</ArticleId></ArticleIdList></Reference><Reference><Citation>Mackenzie PI, Owens IS, Burchell B, Bock KW, Bairoch A, B&#xe9;langer A, Fournel-Gigleux S, Green M, Hum DW, Iyanagi T, et al. (1997) The UDP glycosyltransferase gene superfamily: Recommended nomenclature update based on evolutionary divergence.
+<i>Pharmacogenetics</i>
+7: 255&#x2013;269
+</Citation><ArticleIdList><ArticleId IdType="pubmed">9295054</ArticleId></ArticleIdList></Reference><Reference><Citation>Mittasch J, B&#xf6;ttcher C, Frolova N, B&#xf6;nn M, Milkowski C (2014) Identification of UGT84A13 as a candidate enzyme for the first committed step of gallotannin biosynthesis in pedunculate oak (<i>Quercus robur</i>).
+<i>Phytochemistry</i>
+99: 44&#x2013;51
+</Citation><ArticleIdList><ArticleId IdType="pubmed">24412325</ArticleId></ArticleIdList></Reference><Reference><Citation>Mugford ST, Milkowski C (2012) Serine carboxypeptidase-like acyltransferases from plants.
+<i>Methods Enzymol</i>
+516: 279&#x2013;297
+</Citation><ArticleIdList><ArticleId IdType="pubmed">23034234</ArticleId></ArticleIdList></Reference><Reference><Citation>Muir RM, Ib&#xe1;&#xf1;ez AM, Uratsu SL, Ingham ES, Leslie CA, McGranahan GH, Batra N, Goyal S, Joseph J, Jemmis ED, et al. (2011) Mechanism of gallic acid biosynthesis in bacteria (<i>Escherichia coli</i>) and walnut (<i>Juglans regia</i>).
+<i>Plant Mol Biol</i>
+75: 555&#x2013;565
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3057006</ArticleId><ArticleId IdType="pubmed">21279669</ArticleId></ArticleIdList></Reference><Reference><Citation>Niehaus JU, Gross GG (1997) A gallotannin degrading esterase from leaves of pedunculate oak.
+<i>Phytochemistry</i>
+45: 1555&#x2013;1560</Citation></Reference><Reference><Citation>Niemetz R, Gross GG (2003a) Oxidation of pentagalloylglucose to the ellagitannin tellimagrandin II, by a phenol oxidase from <i>Tellima grandiflora</i> leaves.
+<i>Phytochemistry</i>
+62: 301&#x2013;306
+</Citation><ArticleIdList><ArticleId IdType="pubmed">12620341</ArticleId></ArticleIdList></Reference><Reference><Citation>Niemetz R, Gross GG (2003b) Ellagitannin biosynthesis: Laccase-catalyzed dimerization of tellimagrandin II to cornusiin E in <i>Tellima grandiflora.</i>
+<i>Phytochemistry</i>
+64: 1197&#x2013;1201
+</Citation><ArticleIdList><ArticleId IdType="pubmed">14599517</ArticleId></ArticleIdList></Reference><Reference><Citation>Niemetz R, Gross GG (2005) Enzymology of gallotannin and ellagitannin biosynthesis.
+<i>Phytochemistry</i>
+66: 2001&#x2013;2011
+</Citation><ArticleIdList><ArticleId IdType="pubmed">16153405</ArticleId></ArticleIdList></Reference><Reference><Citation>Niemetz R, Schilling G, Gross GG (2001) Ellagitannin biosynthesis: Oxidation of pentagalloylglucose to tellimagrandin II by an enzyme from <i>Tellima grandiflora</i> leaves.
+<i>Chem Commun (Camb)</i>:
+35&#x2013;36</Citation></Reference><Reference><Citation>Niemetz R, Schilling G, Gross GG (2003) Biosynthesis of the dimeric ellagitannin, cornusiin E, in <i>Tellima grandiflora.</i>
+<i>Phytochemistry</i>
+64: 109&#x2013;114
+</Citation><ArticleIdList><ArticleId IdType="pubmed">12946409</ArticleId></ArticleIdList></Reference><Reference><Citation>Oda-Yamamizo C, Mitsuda N, Milkowski C, Ito H, Ezura K, Tahara K (2023) Heterologous gene expression system for the production of hydrolyzable tannin intermediates in herbaceous model plants.
+<i>J Plant Res</i>
+136: 891&#x2013;905
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10587339</ArticleId><ArticleId IdType="pubmed">37526750</ArticleId></ArticleIdList></Reference><Reference><Citation>Okuda T, Ito H (2011) Tannins of constant structure in medicinal and food plants: Hydrolyzable tannins and polyphenols related to tannins.
+<i>Molecules</i>
+16: 2191&#x2013;2217</Citation></Reference><Reference><Citation>Okuda T, Yoshida T, Hatano T (2000) Correlation of oxidative transformations of hydrolyzable tannins and plant evolution.
+<i>Phytochemistry</i>
+55: 513&#x2013;529
+</Citation><ArticleIdList><ArticleId IdType="pubmed">11130661</ArticleId></ArticleIdList></Reference><Reference><Citation>Okuda T, Yoshida T, Hatano T, Ito H (2009) Ellagitannins renewed the concept of tannins. In: Quideau S (ed) <i>Chemistry and Biology of Ellagitannins. An Underestimated Class of Bioactive Plant Polyphenols</i>. World Scientific Publishing, Singapore, pp 1&#x2013;54</Citation></Reference><Reference><Citation>Ono NN, Qin XQ, Wilson AE, Li G, Tian L (2016) Two UGT84 family glycosyltransferases catalyze a critical reaction of hydrolyzable tannin biosynthesis in pomegranate (<i>Punica granatum</i>).
+<i>PLoS One</i>
+11: e0156319.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4882073</ArticleId><ArticleId IdType="pubmed">27227328</ArticleId></ArticleIdList></Reference><Reference><Citation>Ossipov V, Salminen J-P, Ossipova S, Haukioja E, Pihlaja K (2003) Gallic acid and hydrolysable tannins are formed in birch leaves from an intermediate compound of the shikimate pathway.
+<i>Biochem Syst Ecol</i>
+31: 3&#x2013;16</Citation></Reference><Reference><Citation>Peek J, Christendat D (2015) The shikimate dehydrogenase family: Functional diversity within a conserved structural and mechanistic framework.
+<i>Arch Biochem Biophys</i>
+566: 85&#x2013;99
+</Citation><ArticleIdList><ArticleId IdType="pubmed">25524738</ArticleId></ArticleIdList></Reference><Reference><Citation>Puljula E, Walton G, Woodward MJ, Karonen M (2020) Antimicrobial activities of ellagitannins against <i>Clostridiales perfringens, Escherichia coli, Lactobacillus plantarum</i> and <i>Staphylococcus aureus.</i>
+<i>Molecules</i>
+25: 3714.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7465317</ArticleId><ArticleId IdType="pubmed">32824081</ArticleId></ArticleIdList></Reference><Reference><Citation>Saxe HJ, Horibe T, Balan B, Butterfield TS, Feinberg NG, Zabaneh CM, Jacobson AE, Dandekar AM (2021) Two UGT84A family glycosyltransferases regulate phenol, flavonoid, and tannin metabolism in <i>Juglans regia</i> (English walnut).
+<i>Front Plant Sci</i>
+12: 626483.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7943615</ArticleId><ArticleId IdType="pubmed">33719298</ArticleId></ArticleIdList></Reference><Reference><Citation>Scalbert A, Monties B, Favre JM (1988) Polyphenols of <i>Quercus robur</i>: Adult tree and <i>in vitro</i> grown calli and shoots.
+<i>Phytochemistry</i>
+27: 3483&#x2013;3488</Citation></Reference><Reference><Citation>Schulenburg K, Feller A, Hoffmann T, Schecker JH, Martens S, Schwab W (2016) Formation of &#x3b2;-glucogallin, the precursor of ellagic acid in strawberry and raspberry.
+<i>J Exp Bot</i>
+67: 2299&#x2013;2308
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC4809288</ArticleId><ArticleId IdType="pubmed">26884604</ArticleId></ArticleIdList></Reference><Reference><Citation>Seigler DS (1995) <i>Plant Secondary Metabolism.</i> Kluwer Academic Publishers, Norwell, Massachusetts</Citation></Reference><Reference><Citation>Singh SA, Christendat D (2006) Structure of Arabidopsis dehydroquinate dehydratase-shikimate dehydrogenase and implications for metabolic channeling in the shikimate pathway.
+<i>Biochemistry</i>
+45: 7787&#x2013;7796
+</Citation><ArticleIdList><ArticleId IdType="pubmed">16784230</ArticleId></ArticleIdList></Reference><Reference><Citation>Singh SA, Christendat D (2007) The DHQ-dehydroshikimate-SDH-shikimate-NADP(H) complex: Insights into metabolite transfer in the shikimate pathway.
+<i>Cryst Growth Des</i>
+7: 2153&#x2013;2160</Citation></Reference><Reference><Citation>Stehle F, Brandt W, Stubbs MT, Milkowski C, Strack D (2009) Sinapoyltransferases in the light of molecular evolution.
+<i>Phytochemistry</i>
+70: 1652&#x2013;1662
+</Citation><ArticleIdList><ArticleId IdType="pubmed">19695650</ArticleId></ArticleIdList></Reference><Reference><Citation>Stehle F, Stubbs MT, Strack D, Milkowski C (2008) Heterologous expression of a serine carboxypeptidase-like acyltransferase and characterization of the kinetic mechanism.
+<i>FEBS J</i>
+275: 775&#x2013;787
+</Citation><ArticleIdList><ArticleId IdType="pubmed">18190530</ArticleId></ArticleIdList></Reference><Reference><Citation>Tahara K, Hashida K, Otsuka Y, Ohara S, Kojima K, Shinohara K (2014) Identification of a hydrolyzable tannin, oenothein B, as an aluminum-detoxifying ligand in a highly aluminum-resistant tree, <i>Eucalyptus camaldulensis.</i>
+<i>Plant Physiol</i>
+164: 683&#x2013;693
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC3912098</ArticleId><ArticleId IdType="pubmed">24381064</ArticleId></ArticleIdList></Reference><Reference><Citation>Tahara K, Hiradate S, Hashida K, Shinohara K (2017) An aluminum-resistance mechanism in <i>Eucalyptus camaldulensis</i>: Complexation between aluminum and oenothein B in presence of organic acids <i>in vitro.</i>
+<i>J For Res</i>
+22: 261&#x2013;264</Citation></Reference><Reference><Citation>Tahara K, Nishiguchi M, Frolov A, Mittasch J, Milkowski C (2018) Identifcation of UDP glucosyltransferases from the aluminumresistant tree <i>Eucalyptus camaldulensis</i> forming &#x3b2;-glucogallin, the precursor of hydrolyzable tannins.
+<i>Phytochemistry</i>
+152: 154&#x2013;161
+</Citation><ArticleIdList><ArticleId IdType="pubmed">29775866</ArticleId></ArticleIdList></Reference><Reference><Citation>Tahara K, Nishiguchi M, Funke E, Miyazawa S, Miyama T, Milkowski C (2021) Dehydroquinate dehydratase/shikimate dehydrogenases involved in gallate biosynthesis of the aluminum-tolerant tree species <i>Eucalyptus camaldulensis.</i>
+<i>Planta</i>
+253: 3</Citation><ArticleIdList><ArticleId IdType="pmc">PMC7752791</ArticleId><ArticleId IdType="pubmed">33346890</ArticleId></ArticleIdList></Reference><Reference><Citation>Tahara K, Norisada M, Yamanoshita T, Kojima K (2008) Role of aluminum-binding ligands in aluminum resistance of <i>Eucalyptus camaldulensis</i> and <i>Melaleuca cajuputi.</i>
+<i>Plant Soil</i>
+302: 175&#x2013;187</Citation></Reference><Reference><Citation>Takahashi A, Shimada T (2008) Selective consumption of acorns by the Japanese wood mouse according to tannin content: A behavioral countermeasure against plant secondary metabolites.
+<i>Ecol Res</i>
+23: 1033&#x2013;1038</Citation></Reference><Reference><Citation>Tamura K, Stecher G, Kumar S (2021) MEGA11: Molecular evolutionary genetics analysis version 11.
+<i>Mol Biol Evol</i>
+38: 3022&#x2013;3027
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC8233496</ArticleId><ArticleId IdType="pubmed">33892491</ArticleId></ArticleIdList></Reference><Reference><Citation>Terrier N, Torregrosa L, Ageorges A, Vialet S, Verri&#xe8;s C, Cheynier V, Romieu C (2009) Ectopic expression of VvMybPA2 promotes proanthocyanidin biosynthesis in grapevine and suggests additional targets in the pathway.
+<i>Plant Physiol</i>
+149: 1028&#x2013;1041
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC2633825</ArticleId><ArticleId IdType="pubmed">19098092</ArticleId></ArticleIdList></Reference><Reference><Citation>Werner I, Bacher A, Eisenreich W (1997) Retrobiosynthetic NMR studies with <sup>13</sup>C-labeled glucose.
+<i>J Biol Chem</i>
+272: 25474&#x2013;25482
+</Citation><ArticleIdList><ArticleId IdType="pubmed">9325260</ArticleId></ArticleIdList></Reference><Reference><Citation>Werner RA, Rossmann A, Schwarz C, Bacher A, Schmidt H-L, Eisenreich W (2004) Biosynthesis of gallic acid in <i>Rhus typhina</i>: Discrimination between alternative pathways from natural oxygen isotope abundance.
+<i>Phytochemistry</i>
+65: 2809&#x2013;2813
+</Citation><ArticleIdList><ArticleId IdType="pubmed">15474568</ArticleId></ArticleIdList></Reference><Reference><Citation>Yao S, Liu Y, Zhuang J, Zhao Y, Dai X, Jiang C, Wang Z, Jiang X, Zhang S, Qian Y, et al. (2022) Insights into acylation mechanisms: Co-expression of serine carboxypeptidase-like acyltransferases and their non-catalytic companion paralogs.
+<i>Plant J</i>
+111: 117&#x2013;133
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC9541279</ArticleId><ArticleId IdType="pubmed">35437852</ArticleId></ArticleIdList></Reference><Reference><Citation>Yoshida T, Amakura Y, Yoshimura M (2010) Structural features and biological properties of ellagitannins in some plant families of the order Myrtales.
+<i>Int J Mol Sci</i>
+11: 79&#x2013;106
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC2820991</ArticleId><ArticleId IdType="pubmed">20162003</ArticleId></ArticleIdList></Reference><Reference><Citation>Yoshida T, Hatano T, Ito H (2004) Naturally occurring nanomolecules, tannins: Their structures and functions.
+<i>J Synth Org Chem Jpn</i>
+62: 500&#x2013;507</Citation></Reference><Reference><Citation>Yoshida T, Maruyama T, Nitta A, Okuda T (1992) Eucalbanin A, eucalbanin B and eucalbanin C, monomeric and dimeric hydrolyzable tannins from <i>Eucalyptus alba</i> Reinw.
+<i>Chem Pharm Bull</i>
+40: 1750&#x2013;1754</Citation></Reference><Reference><Citation>Yu K, Song YS, Lin JX, Dixon RA (2023) The complexities of proanthocyanidin biosynthesis and its regulation in plants.
+<i>Plant Commun</i>
+4: 100498.
+</Citation><ArticleIdList><ArticleId IdType="pmc">PMC10030370</ArticleId><ArticleId IdType="pubmed">36435967</ArticleId></ArticleIdList></Reference><Reference><Citation>Zhang B, Han Z, Kumar S, Gupta M, Su WW (2019) Intein-ubiquitin chimeric domain for coordinated protein coexpression.
+<i>J Biotechnol</i>
+304: 38&#x2013;43
+</Citation><ArticleIdList><ArticleId IdType="pubmed">31415789</ArticleId></ArticleIdList></Reference><Reference><Citation>Zhang L, Guan Q, Jiang J, Khan MS (2023) Tannin complexation with metal ions and its implication on human health, environment and industry: An overview.
+<i>Int J Biol Macromol</i>
+253: 127485.
+</Citation><ArticleIdList><ArticleId IdType="pubmed">37863140</ArticleId></ArticleIdList></Reference><Reference><Citation>Zhang L, Liu R, Gung BW, Tindall S, Gonzalez JM, Halvorson JJ, Hagerman AE (2016) Polyphenol-aluminum complex formation: Implications for aluminum tolerance in plants.
+<i>J Agric Food Chem</i>
+64: 3025&#x2013;3033
+</Citation><ArticleIdList><ArticleId IdType="pubmed">27022835</ArticleId></ArticleIdList></Reference></ReferenceList></PubmedData></PubmedArticle></PubmedArticleSet>

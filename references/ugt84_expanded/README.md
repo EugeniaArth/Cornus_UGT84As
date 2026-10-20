@@ -1,0 +1,9 @@
+# Reference sequence sources
+
+This collection supplies the sequence and literature provenance for the protein dataset described in the project README. It contains 24 literature- or accession-supported UGT84 references, six UGT74 Group-L comparison proteins, and two additional family-1 context proteins. The sequences and their source records are included locally; construction of the 32-sequence FASTA does not require files outside this project.
+
+The 24 UGT84 entries comprise 17 UGT84A, three UGT84B, and four UGT84J proteins. `sequences/formal_ugt84_reference_seeds.faa` contains their curated amino-acid sequences, and `sequences/formal_ugt84_reference_manifest.tsv` records accessions, names, taxa, sequence lengths, membership evidence, and function evidence separately. `sequences/groupL_ugt74_comparator_seeds.faa` contains UGT74F1, UGT74F2, CsUGT74B4, CsUGT74B5, CsUGT74AF1, and CsUGT74AG1. `sequences/family1_context_outgroups.faa` contains Medicago UGT71G1 and Stevia UGT76G1.
+
+Hoffmann et al. (2023), Table 2, places UGT71/72/88 in Group E, UGT74/75/84 in Group L, and UGT76 in Group H. The six UGT74 proteins therefore serve as neighboring Group-L comparators; they are not UGT84 family members or Group-E outgroups. UGT71G1 is the included Group-E representative. UGT76G1 is an additional Group-H context sequence. No UGT72 or UGT88 sequence is included.
+
+The source collection also contains accession FASTAs for the selected proteins, PubMed records, available PMC full-text XML, compressed article supplements, and extracted text selections. File-level citations and access notes are in `SOURCE_CATALOG.md`; additional accession-specific notes are in `SOURCE_CATALOG_ORIGINAL.md`. The original article and supplement licenses have not all been checked, so local storage should not be taken as permission to redistribute those files.

@@ -1,0 +1,65 @@
+LOCUS       AAW56092                 465 aa            linear   PLN 07-MAR-2005
+DEFINITION  triterpene UDP-glucosyl transferase UGT71G1 [Medicago truncatula].
+ACCESSION   AAW56092
+VERSION     AAW56092.1
+DBSOURCE    accession AY747627.1
+KEYWORDS    .
+SOURCE      Medicago truncatula (barrel medic)
+  ORGANISM  Medicago truncatula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae; 50
+            kb inversion clade; NPAAA clade; Hologalegina; IRL clade;
+            Trifolieae; Medicago.
+REFERENCE   1  (residues 1 to 465)
+  AUTHORS   Achnine,L., Huhman,D.V., Farag,M.A., Sumner,L.W., Blount,J.W. and
+            Dixon,R.A.
+  TITLE     Genomics-based selection and functional characterization of
+            triterpene glycosyltransferases from the model legume Medicago
+            truncatula
+  JOURNAL   Plant J. 41 (6), 875-887 (2005)
+   PUBMED   15743451
+REFERENCE   2  (residues 1 to 465)
+  AUTHORS   Achnine,L., Huhman,D.V., Sumner,L.W., Blount,J.W. and Dixon,R.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-SEP-2004) Plant Biology Division, The Samuel Roberts
+            Noble Foundation, 2510 Sam Noble Parkway, Ardmore, OK 73402, USA
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..465
+                     /organism="Medicago truncatula"
+                     /db_xref="taxon:3880"
+     Protein         1..465
+                     /product="triterpene UDP-glucosyl transferase UGT71G1"
+                     /name="triterpene glucoside"
+                     /note="saponin"
+     Region          8..463
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:471961"
+     Site            order(21..22,24,190,193..194,198,229,285,357,359,361..362,
+                     365)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(21,285,357,359,361..362)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            22
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..465
+                     /coded_by="AY747627.1:38..1435"
+ORIGIN      
+        1 msmsdinkns elifipapgi ghlasalefa klltnhdknl yitvfcikfp gmpfadsyik
+       61 svlasqpqiq lidlpevepp pqellkspef yiltflesli phvkatikti lsnkvvglvl
+      121 dffcvsmidv gnefgipsyl fltsnvgfls lmlslknrqi eevfddsdrd hqllnipgis
+      181 nqvpsnvlpd acfnkdggyi ayyklaerfr dtkgiivntf sdleqssida lydhdekipp
+      241 iyavgplldl kgqpnpkldq aqhdlilkwl deqpdksvvf lcfgsmgvsf gpsqireial
+      301 glkhsgvrfl wsnsaekkvf pegflewmel egkgmicgwa pqvevlahka iggfvshcgw
+      361 nsilesmwfg vpiltwpiya eqqlnafrlv kewgvglglr vdyrkgsdvv aaeeiekglk
+      421 dlmdkdsivh kkvqemkems rnavvdggss lisvgklidd itgsn
+//
+

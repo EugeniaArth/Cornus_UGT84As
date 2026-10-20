@@ -1,0 +1,218 @@
+
+===== SOURCE: 10265_2023_1484_MOESM1_ESM.pdf; PDF page 3 =====
+3 
+ 
+Table S2 Accession numbers of UGT84As and UGT72s shown in Fig. S1. 
+Species Protein name Accession Reference 
+Arabidopsis thaliana (At) UGT72B1 AT4G01070 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72B2 AT1G01390 This study 
+Arabidopsis thaliana (At) UGT72B3 AT1G01420 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72C1 AT4G36770 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72D1 AT2G18570 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72D2 AT2G18560 This study 
+Arabidopsis thaliana (At) UGT72E1 AT3G50740 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72E2 AT5G66690 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT72E3 AT5G26310 Yang et al. 2018 
+Arabidopsis thaliana (At) UGT84A1 AT4G15480 Milkowski et al. 2000b 
+Arabidopsis thaliana (At) UGT84A2 AT3G21560 Milkowski et al. 2000b 
+Arabidopsis thaliana (At) UGT84A3 AT4G15490 Milkowski et al. 2000b 
+Arabidopsis thaliana (At) UGT84A4 AT4G15500 Milkowski et al. 2000b 
+Brassica napus (Bn) UGT84A9 AAF98390 Milkowski et al. 2000a 
+Brassica napus (Bn) UGT84A10 CAJ77650 Mittasch et al. 2007 
+Camellia sinensis (Cs) UGT72AM1 ASA40331 Zhao et al. 2017 
+Camellia sinensis (Cs) UGT84A22 ALO19890 Cui et al. 2016 
+Citrus unshiu (Cu) CitLGT (UGT84A5) BAA93039 Kita et al. 2000 
+Eucalyptus camaldulensis (Ec) UGT84A25 BBB21213 Tahara et al. 2018 
+Eucalyptus camaldulensis (Ec) UGT84A26 BBB21215 Tahara et al. 2018 
+Fragaria × ananassa (Fa) FaGT2 (UGT84A6) AAU09443 Schulenburg et al. 2016 
+Gentiana trifloral (Gt) GtUF6CGT1 BAQ19550 Sasaki et al. 2015 
+Glycine max (Gm) UGT72X4 Glyma.08G338100 Yin et al. 2017b 
+Glycine max (Gm) UGT72Z3 Glyma.08G338200 Yin et al. 2017b 
+Hieracium pilosella (Hp) UGT72B11 ACB56923 Witte et al. 2009 
+Lotus japonicus (Lj) UGT72V3 chr3.CM0282.950.r2.m Yin et al. 2017a 
+Lotus japonicus (Lj) UGT72Z2 LjSGA_016571 Yin et al. 2017a 
+Lotus japonicus (Lj) UGT72AD1 chr1.LjT10H09.40.r2.m Yin et al. 2017a 
+Lotus japonicus (Lj) UGT72AF1 chr6.CM0118.1240.r2.d Yin et al. 2017a 
+Lotus japonicus (Lj) UGT72AH1 chr3.CM0846.120.r2.d Yin et al. 2017a 
+Medicago truncatula (Mt) UGT72L1 ACC38470 Pang et al. 2008 
+Nicotiana benthamiana (Nb) UGT72B34 UHH90499 Sun et al. 2019 
+Nicotiana benthamiana (Nb) UGT72B35 UHH90500 Sun et al. 2019 
+Nicotiana benthamiana (Nb) UGT72AX1 UHH90503 Sun et al. 2019 
+Nicotiana benthamiana (Nb) UGT72AY1 UHH90560 Sun et al. 2019 
+
+===== SOURCE: 10265_2023_1484_MOESM1_ESM.pdf; PDF page 4 =====
+4 
+ 
+Nicotiana benthamiana (Nb)  Niben101Scf00817g06013 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf01341g00002 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf02565g03002 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf03434g01013 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf04240g00006 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf07353g02006 This study 
+Nicotiana benthamiana (Nb)  Niben101Scf13710g02002 This study 
+Populus fremontii  
+× P.  a ngustifolia (Pfa) UGT84A17 AII32448  Babst et al. 2014 
+Populus tremula × P.  a l b a (Pta) UGT72B37 QLI54353 Speeckaert et al. 2020 
+Populus tremula × P.  a l b a (Pta) UGT72B39 QLI54355 Speeckaert et al. 2020 
+Populus tremula × P.  a l b a (Pta) UGT72AZ2 QLI54351 Speeckaert et al. 2020 
+Punica granatum (Pg) UGT72BD1 QHB92369 Chang et al. 2019 
+Punica granatum (Pg) UGT84A23 ANN02875 Ono et al. 2016 
+Punica granatum (Pg) UGT84A24 ANN02877 Ono et al. 2016 
+Quercus robur (Qr) UGT84A13 AHA54051 Mittasch et al. 2014 
+Solanum lycopersicum (Sl) SlUGT5 ADI33725 Louveau et al. 2011 
+Vitis labrusca (Vl) VlRSgt ABH03018 Hall and De Luca 2007 
+Vitis vinifera (Vv) UGT72B27 QZP12103 Härtl et al. 2017 
+Vitis vinifera (Vv) VvgGT1 AEW31187 Khater et al. 2012 
+ 
+ 
+  
+
+===== SOURCE: 10265_2023_1484_MOESM1_ESM.pdf; PDF page 5 =====
+5 
+ 
+Table S3 Orders, families, and genera in which hydrolyzable tannins were reportedly identified 
+Order Family Genus 
+Nymphaeales Nymphaeaceae Nuphar 
+Gunnerales Myrothamnaceae Myrothamnus1 
+Fabales Fabaceae Caesalpinia, Ceratonia, Haematoxylum 
+Rosales Elaeagnaceae Elaeagnus, Hippophae, Shepherdia 
+Rosaceae Agrimonia, Filipendula, Fragaria, Geum, Rosa, Rubus, Potentilla, 
+Sanguisorba, Sieversia 
+Fagales Betulaceae Alnus, Carpinus, Corylus 
+Casuarinaceae Casuarina 
+Fagaceae Castanea, Castanopsis, Quercus 
+Juglandaceae Juglans, Rhoiptelea 
+Cucurbitales Coriariaceae Coriaria 
+Oxalidales Elaeocarpaceae Elaeocarpus 
+Malpighiales  Euphorbiaceae Alchornea, Aleurites, Euphorbia, Excoecaria, Macaranga, Mallotus 
+Phyllanthaceae Antidesma, Phyllanthus 
+Geraniales Geraniaceae Geranium 
+Myrtales Combretaceae Anogeissus, Combretum, Terminalia 
+Lythraceae Cuphea, Lagerstroemia, Punica, Trapa, Woodfordia 
+Melastomataceae Bredia, Heterocentron, Medinilla, Melastoma, Tibouchina 
+Myrtaceae Eucalyptus, Eugenia, Feijoa, Melaleuca, Psidium, Syzygium 
+Onagraceae Epilobium, Fuchsia, Oenothera 
+Crossosomatales Stachyuraceae Stachyurus 
+Malvales Cytinaceae Cytinus 
+Sapindales Aceraceae Acer 
+Anacardiaceae Cotinus, Mangifera, Rhus 
+Vitales Vitaceae Vitis 
+Saxifragales  Altingiaceae Liquidambar 
+Cercidiphyllaceae Cercidiphyllum 
+Hamamelidaceae Hamamelis, Loropetalum 
+Paeoniaceae Paeonia 
+Saxifragaceae Bergenia, Tellima 
+Caryophyllales  Polygonaceae Rheum 
+Tamaricaceae Reaumuria, Tamarix 
+Cornales Cornaceae Cornus 
+Nyssaceae Camptotheca 
+Ericales Ericaceae Arctostaphylos, Pyrola 
+Lecythidaceae Barringtonia 
+Theaceae Camellia, Gordonia, Schima 
+Hydrolyzable tannin-containing genera reviewed by Okuda et al. (2000) were revised according to APG IV unless 
+otherwise noted. 1Engelhardt et al. (2016) reported the presence of hydrolyzable tannins in this genus.  
+
+===== SOURCE: 10265_2023_1484_MOESM1_ESM.pdf; PDF page 6 =====
+6 
+ 
+Table S4 PCR primers used for subcloning and the quantitative real-time PCR analysis 
+ 
+Purpose Gene Forward 
+or reverse Sequence (5’ –3’) 
+Subcloning EcDQD/SDH2  Fw 
+Rev 
+tacaattacagatcccATGACTCTCAGCAGCATCC 
+gtcggtacccccgggACTGTTCTTCACCAATGTAT 
+ EcDQD/SDH3  Fw 
+Rev 
+gctgtcgaccccgggATGGGCAGCGTTCCGTTCAC 
+gacttatctagttacccTGCATGTTTCTCCATGAG 
+ UGT84A25  Fw 
+Rev 
+ttacaattacagatcccATGGGGTCGGAGGCGCTC 
+gtcggtacccccgggCGACACTACCTTCAGCTCCC 
+ UGT84A26 Fw 
+Rev  
+gctgtcgaccccgggATGGGGTCGGAGGCACTTGT 
+ctcgtcgacggtacccccCGACACCACCTTTAACT 
+Real-time PCR EcDQD/SDH2 Fw 
+Rev 
+TGCCATCTACACGCCAAAATTG 
+CAGTTGCTTTGGTGCAGGATAC  
+ EcDQD/SDH3 Fw 
+Rev 
+ATGCCATTTACACACCAAAGGAC 
+GTCCTGAACAA TTCCTCCGGG 
+ UGT84A25 Fw 
+Rev 
+AGAACGCGATGAAGTGGAGC 
+GCCATTGGCCGTTGACTTGC 
+ UGT84A26 Fw 
+Rev 
+TCCTCAGACCGGAACATCCAG 
+CCATTGCCCGCCACTTTGTTG 
+ NbEF-1 α Fw 
+Rev 
+AGCTTTACCTCCCAAGTCATC 
+CAGAACGCCTGTCAATCTTGG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== SOURCE: 10265_2023_1484_MOESM1_ESM.pdf; PDF page 7 =====
+7 
+ 
+Table S5 β-Glucogallin and related compounds identified and quantified by UPLC-Q-TOF-MS 
+ 
+Compound Retention 
+time (min) 
+Elemental 
+composition 
+Measured 
+ion 
+Calculated 
+exact mass 
+Measured 
+accurate mass 
+Error 
+(ppm) 
+Quinic acid 0.66 C 7H12O6 [M −H]− 192.0634 192.0653  9.8 
+Shikimic acid 0.83 C 7H10O5 [M −H]− 174.0528 174.0531  1.6 
+3-Dehydroshikimic acid 1.02 C 7H8O5 [M −H]− 172.0371 172.0381  5.3 
+β-Glucogallin 2.26 C13H16O10 [M−H]− 332.0744 332.0761  5.2 
+Gallic acid 2.29 C7H6O5 [M−H]− 170.0215 170.0240  14.7 
+3-Glucogallic acid 2.64 C13H16O10 [M−H]− 332.0744 332.0755  3.5 
+4-Glucogallic acid 3.75 C13H16O10 [M−H]− 332.0744 332.0768  7.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

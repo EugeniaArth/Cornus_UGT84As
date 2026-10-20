@@ -1,0 +1,34 @@
+{
+  "description": "Locally staged inputs for building the 32-sequence reference/context dataset",
+  "counts": {
+    "formal_ugt84": 24,
+    "group_l_ugt74_comparators": 6,
+    "family1_context": 2
+  },
+  "files": [
+    {
+      "source": "References/ugt84_expanded/sequences/formal_ugt84_reference_seeds.faa",
+      "staged_file": "Inputs/reference_panel/formal_ugt84_reference_seeds.faa",
+      "size_bytes": 13610,
+      "sha256": "3853d3f101074748964a08e70ca21f31a4038d75896d777abd8a670d7bc5c537"
+    },
+    {
+      "source": "References/ugt84_expanded/sequences/formal_ugt84_reference_manifest.tsv",
+      "staged_file": "Inputs/reference_panel/formal_ugt84_reference_manifest.tsv",
+      "size_bytes": 4634,
+      "sha256": "113262f596ec823407aa6ee3027663ac49e408a27a9e383725465b6f83d04206"
+    },
+    {
+      "source": "References/ugt84_expanded/sequences/groupL_ugt74_comparator_seeds.faa",
+      "staged_file": "Inputs/reference_panel/groupL_ugt74_comparator_seeds.faa",
+      "size_bytes": 3313,
+      "sha256": "d8058b0b4911f33d9b4ca6c089534d2c558b06544ccffa6194d26957b1fecd4c"
+    },
+    {
+      "source": "References/ugt84_expanded/sequences/family1_context_outgroups.faa",
+      "staged_file": "Inputs/reference_panel/family1_context_outgroups.faa",
+      "size_bytes": 1078,
+      "sha256": "99ea86116a3f5ecd1d2d413c28478736b803c7ca82def0733bc5f4a05a04c808"
+    }
+  ]
+}

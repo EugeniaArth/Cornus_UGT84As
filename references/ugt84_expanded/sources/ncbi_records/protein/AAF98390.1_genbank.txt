@@ -1,0 +1,73 @@
+LOCUS       AF287143_1               497 aa            linear   PLN 05-JUL-2006
+DEFINITION  UDP-glucose:sinapate glucosyltransferase [Brassica napus].
+ACCESSION   AAF98390
+VERSION     AAF98390.1
+DBSOURCE    accession AF287143.1
+KEYWORDS    .
+SOURCE      Brassica napus (rape)
+  ORGANISM  Brassica napus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Brassiceae; Brassica.
+REFERENCE   1  (residues 1 to 497)
+  AUTHORS   Milkowski,C., Baumert,A. and Strack,D.
+  TITLE     Cloning and heterologous expression of a rape cDNA encoding
+            UDP-glucose:sinapate glucosyltransferase
+  JOURNAL   Planta 211 (6), 883-886 (2000)
+   PUBMED   11144274
+REFERENCE   2  (residues 1 to 497)
+  AUTHORS   Milkowski,C., Baumert,A. and Strack,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUL-2000) Leibniz-Institut fur Pflanzenbiochemie,
+            Weinberg 3, Halle 06120, Germany
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..497
+                     /organism="Brassica napus"
+                     /db_xref="taxon:3708"
+                     /tissue_type="cotyledon"
+                     /dev_stage="immature seed"
+     Protein         1..497
+                     /product="UDP-glucose:sinapate glucosyltransferase"
+                     /EC_number="2.4.1.120"
+                     /function="catalyzes the transfer of glucose from
+                     UDP-glucose to sinapate and some other hydroxycinnamates
+                     (4-coumarate, caffeate, ferulate)"
+                     /name="SGT1"
+     Region          1..482
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:471961"
+     Site            order(10,36,122,465..466,469)
+                     /site_type="other"
+                     /note="homodimer interface [polypeptide binding]"
+                     /db_xref="CDD:340817"
+     Site            order(21..22,24,174,186..187,191,218,294,366,368,370..371,
+                     374)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(21,294,366,368,370..371)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            22
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..497
+                     /gene="UGT84A9"
+                     /coded_by="AF287143.1:40..1533"
+ORIGIN      
+        1 melsssplpp hvmlvsfpgq ghvnpllrlg kllaskgllv tfvtteswgk kmrtankiqd
+       61 ralkpigkgy lrfdffndgl pedddasrtn ltilrpqlel vgqqeiknlv krykevmkqp
+      121 vtclinnpfv swvcdvaedl qipcavlwvq scaclasyyy ynhklvdfpt etdpkidvqi
+      181 pcmpvlkhde ipsfihpfsp ysglreviid qikrlhkpfa vlidtfysle kdiidhmtnl
+      241 srtgfvrplg plykmaktli cddikgdmse trddcmewld sqpvssvvyi sfgtvayvtq
+      301 eqiseialgv lnadvsflwv irqqelgvnk erhvlpeelk gkgkviewcs qekvlahpsv
+      361 vcfvthcgwn stmealssgv ptvcfpqwgd qvtdaaymid vfktgvrlsr geteervvpr
+      421 eevaerlrev tkgekatelk knalkwkeea eaavarggss drnldefvek lgvkpvakqn
+      481 gslnqngsiq klllqks
+//
+

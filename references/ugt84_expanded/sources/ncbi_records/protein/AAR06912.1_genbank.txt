@@ -1,0 +1,65 @@
+LOCUS       AAR06912                 458 aa            linear   PLN 28-DEC-2004
+DEFINITION  UDP-glycosyltransferase 76G1 [Stevia rebaudiana].
+ACCESSION   AAR06912
+VERSION     AAR06912.1
+DBSOURCE    accession AY345974.1
+KEYWORDS    .
+SOURCE      Stevia rebaudiana
+  ORGANISM  Stevia rebaudiana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Asterales; Asteraceae;
+            Asteroideae; Heliantheae alliance; Eupatorieae; Stevia.
+REFERENCE   1  (residues 1 to 458)
+  AUTHORS   Richman,A., Swanson,A., Humphrey,T., Chapman,R., McGarvey,B.,
+            Pocs,R. and Brandle,J.
+  TITLE     Functional genomics uncovers three glucosyltransferases involved in
+            the synthesis of the major sweet glucosides of Stevia rebaudiana
+  JOURNAL   Plant J. 41 (1), 56-67 (2005)
+   PUBMED   15610349
+REFERENCE   2  (residues 1 to 458)
+  AUTHORS   Richman,A.S., Swanson,A.K., Humphrey,T.V. and Brandle,J.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2003) Southern Crop Protection and Food Research
+            Centre, Agriculture and Agri-Food Canada, 1391 Sandford St.,
+            London, Ontario N5V 4T3, Canada
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..458
+                     /organism="Stevia rebaudiana"
+                     /isolation_source="field grown"
+                     /db_xref="taxon:55670"
+                     /tissue_type="leaf"
+     Protein         1..458
+                     /product="UDP-glycosyltransferase 76G1"
+                     /name="UGT76G1"
+     Region          17..458
+                     /region_name="Glycosyltransferase_GTB-type"
+                     /note="glycosyltransferase family 1 and related proteins
+                     with GTB topology; cl10013"
+                     /db_xref="CDD:471961"
+     Site            order(24..25,27,171,185,200,204,231,283,356,358,360..361,
+                     364)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(24,283,356,358,360..361)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            25
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..458
+                     /coded_by="AY345974.1:28..1404"
+ORIGIN      
+        1 menktettvr rrrriilfpv pfqghinpil qlanvlyskg fsitifhtnf nkpktsnyph
+       61 ftfrfildnd pqderisnlp thgplagmri piinehgade lrrelellml aseedeevsc
+      121 litdalwyfa qsvadslnlr rlvlmtsslf nfhahvslpq fdelgyldpd dktrleeqas
+      181 gfpmlkvkdi ksaysnwqil keilgkmikq tkassgviwn sfkeleesel etvireipap
+      241 sfliplpkhl tasssslldh drtvfqwldq qppssvlyvs fgstsevdek dfleiarglv
+      301 dskqsflwvv rpgfvkgstw veplpdgflg ergrivkwvp qqevlahgai gafwthsgwn
+      361 stlesvcegv pmifsdfgld qplnarymsd vlkvgvylen gwergeiana irrvmvdeeg
+      421 eyirqnarvl kqkadvslmk ggssyesles lvsyissl
+//
+

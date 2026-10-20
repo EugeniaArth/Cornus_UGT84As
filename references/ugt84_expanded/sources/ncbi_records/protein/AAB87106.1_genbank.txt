@@ -1,0 +1,69 @@
+LOCUS       AAB87106                 438 aa            linear   PLN 11-MAR-2002
+DEFINITION  putative glucosyltransferase [Arabidopsis thaliana].
+ACCESSION   AAB87106
+VERSION     AAB87106.1
+DBSOURCE    accession AC002391.3
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (residues 1 to 438)
+  AUTHORS   Rounsley,S.D., Lin,X., Ketchum,K.A., Crosby,M.L., Brandon,R.C.,
+            Sykes,S.M., Kaul,S., Mason,T.M., Kerlavage,A.R., Adams,M.D.,
+            Somerville,C.R. and Venter,J.C.
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 438)
+  AUTHORS   Lin,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-2000) The Institute for Genomic Research, 9712
+            Medical Center Dr., Rockville, MD 20850, USA
+REFERENCE   3  (residues 1 to 438)
+  AUTHORS   Town,C.D. and Kaul,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2002) The Institute for Genomic Research, 9712
+            Medical Center Dr, Rockville, MD 20850, USA, cdtown@tigr.org
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Arabidopsis thaliana"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /map="CIC06C07"
+                     /clone="T20D16"
+                     /ecotype="Columbia"
+     Protein         1..438
+                     /product="putative glucosyltransferase"
+     Region          1..438
+                     /region_name="PLN02210"
+                     /note="UDP-glucosyl transferase"
+                     /db_xref="CDD:215127"
+     Site            order(8..9,11,144,147..148,152,180,260,331,333,335..336,
+                     339)
+                     /site_type="active"
+                     /db_xref="CDD:340817"
+     Site            order(8,260,331,333,335..336)
+                     /site_type="active"
+                     /note="TDP-binding site [active]"
+                     /db_xref="CDD:340817"
+     Site            9
+                     /site_type="active"
+                     /note="acceptor substrate-binding pocket [active]"
+                     /db_xref="CDD:340817"
+     CDS             1..438
+                     /gene="At2g23250"
+                     /gene_synonym="T20D16.12"
+                     /coded_by="AC002391.3:52312..53628"
+ORIGIN      
+        1 mvalafqghl npmlkfakhl artnlhftla tteqardlls stadephrpv dlaffsdglp
+       61 kddprdpdtl akslkkdgak nlskiieekr fdciisvpft pwvpavaaah nipcailwiq
+      121 acgafsvyyr yymktnpfpd ledlnqtvel palpllevrd lpslmlpsqg anvntlmaef
+      181 adclkdvkwv lvnsfyeles eiiesmsdlk piipigplvs pfllgndeek tldmwkvddy
+      241 cmewldkqar ssvvyisfgs ilkslenqve tiatalknrg vpflwvirpk ekgenvqvlq
+      301 emvkegkgvv tewgqqekil shmaiscfit hcgwnstiet vvtgvpvvay ptwidqplda
+      361 rllvdvfgig vrmkndaidg elkvaeverc ieavtegpaa admrrratel khaarsamsp
+      421 ggssaqnlds fisdipit
+//
+

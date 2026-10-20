@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="pi">
+  <diagram id="cornus-ugt84-pipeline" name="Cornus UGT84 pipeline">
+    <mxGraphModel dx="1831" dy="1069" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=6;" value="Cornus UGT84 candidate recovery and phylogenetic workflow" vertex="1">
+          <mxGeometry height="46" width="1820" x="50" y="18" as="geometry" />
+        </mxCell>
+        <mxCell id="references" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=10;fillColor=light-dark(#F0EDF8,#FFFFFF);strokeColor=#7356A5;strokeWidth=6;fontSize=19;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;REFERENCE / CONTEXT PANEL — 32 PROTEINS&lt;/b&gt;&lt;br&gt;24 UGT84 A/B/J · 6 UGT74 Group-L comparators · 2 family-1 context sequences (Groups E/H)&lt;br&gt;Python: stage sources → build panel → validate panel · the 24 UGT84 references are used in both BLASTP comparisons" vertex="1">
+          <mxGeometry height="112" width="1120" x="400" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="florida" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=12;spacingBottom=10;fillColor=light-dark(#E7F1F8,#FFFFFF);strokeColor=#2878A8;strokeWidth=6;fontSize=20;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;C. FLORIDA — PROTEIN SCREEN&lt;/b&gt;&lt;br&gt;1. RefSeq protein FASTA&lt;br&gt;2. HMMER &lt;i&gt;hmmsearch&lt;/i&gt; with PF00201: 257 broad-family hits&lt;br&gt;3. Python exact HCGWNS-core scan: 160 hits&lt;br&gt;4. BLASTP vs 24 UGT84 references; GFF/locus mapping&lt;br&gt;5. Selected: 20 proteins at 20 loci" vertex="1">
+          <mxGeometry height="230" width="880" x="50" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="suecica" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=18;spacingRight=14;spacingTop=12;spacingBottom=10;fillColor=light-dark(#F8EAF2,#FFFFFF);strokeColor=#BA5E91;strokeWidth=6;fontSize=20;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);labelBorderColor=default;" value="&lt;b&gt;C. SUECICA — ANNOTATION-DERIVED SCREEN&lt;/b&gt;&lt;br&gt;1. Genome + GFF3/GTF; coding-transcript sets agree&lt;br&gt;2. Python translation/QC: 33,025 transcript models&lt;br&gt;3. HMMER &lt;i&gt;hmmsearch&lt;/i&gt; with PF00201: 146 broad-family hits&lt;br&gt;4. Python exact HCGWNS-core scan: 100 hits&lt;br&gt;5. BLASTP vs references + GFF/locus mapping: 13 proteins at 13 loci&lt;br&gt;6. Three start-codon-feature flags; retained in candidate data, held out from tree" vertex="1">
+          <mxGeometry height="230" width="880" x="990" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="candidate65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#68737D;strokeWidth=6;fontSize=18;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;COMBINED CANDIDATE DATASET: 65 SEQUENCES&lt;/b&gt;&lt;br&gt;32 reference/context proteins + 20 C. florida + 13 C. suecica" vertex="1">
+          <mxGeometry height="82" width="720" x="600" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="treeinput62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#C58A2A;strokeWidth=6;fontSize=18;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;TREE-ONLY INPUT: 62 TIPS&lt;/b&gt;&lt;br&gt;32 reference/context + 20 Florida + 10 Suecica · three start-flagged Suecica proteins held out from the tree only" vertex="1">
+          <mxGeometry height="82" width="720" x="600" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="mafft" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#447A9C;strokeWidth=6;fontSize=18;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;ALIGNMENT — MAFFT 7.526&lt;/b&gt;&lt;br&gt;L-INS-i · 685 amino-acid sites" vertex="1">
+          <mxGeometry height="105" width="470" x="400" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="iqtree" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#4E8B5C;strokeWidth=6;fontSize=18;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;MAXIMUM-LIKELIHOOD INFERENCE — IQ-TREE 2.4.0&lt;/b&gt;&lt;br&gt;ModelFinder/BIC: Q.plant+I+R5&lt;br&gt;1,000 UFBoot + 1,000 SH-aLRT · 2 threads · seed 20261019" vertex="1">
+          <mxGeometry height="105" width="600" x="930" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="unrooted" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#637583;strokeWidth=6;fontSize=18;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;UNROOTED ML TREE&lt;/b&gt;&lt;br&gt;No root applied" vertex="1">
+          <mxGeometry height="105" width="280" x="1590" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="detailed" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#778894;strokeWidth=6;fontSize=19;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;DETAILED TREE&lt;/b&gt;&lt;br&gt;UFBoot labels shown at ≥95" vertex="1">
+          <mxGeometry height="78" width="450" x="110" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="slide" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#778894;strokeWidth=6;fontSize=19;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;16:9 SLIDE TREE&lt;/b&gt;&lt;br&gt;UFBoot labels shown at ≥99" vertex="1">
+          <mxGeometry height="78" width="450" x="610" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="rootcheck" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=#B68A46;strokeWidth=6;fontSize=19;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" value="&lt;b&gt;ROOTING CHECK&lt;/b&gt;&lt;br&gt;UGT71G1/UGT76G1 pair: 50% UFBoot in the consensus; the two context taxa do not define a stable exclusive outgroup split. Keep tree unrooted." vertex="1">
+          <mxGeometry height="98" width="710" x="1110" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="interpretation" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=light-dark(#F1F3F5,#FFFFFF);strokeColor=none;fontSize=17;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);strokeWidth=6;" value="Interpretation limit: PF00201 is a broad UGT-family screen; the HCGWNS core, similarity, and tree placement are candidate evidence only—not proof of UGT84 membership, subfamily placement, or enzyme function." vertex="1">
+          <mxGeometry height="48" width="1740" x="90" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="ref-to-florida" edge="1" parent="1" source="references" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7356A5;strokeWidth=6;dashed=1;dashPattern=6 4;fontSize=16;fontColor=light-dark(#202A32,#000000);exitX=0.28;exitY=1;entryX=0.5;entryY=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="florida" value="24 UGT84 reference queries">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ref-to-suecica" edge="1" parent="1" source="references" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#7356A5;strokeWidth=6;dashed=1;dashPattern=6 4;fontSize=16;fontColor=light-dark(#202A32,#000000);exitX=0.72;exitY=1;entryX=0.5;entryY=0;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="suecica" value="24 UGT84 reference queries">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="florida-to-candidate" edge="1" parent="1" source="florida" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#2878A8;strokeWidth=6;exitX=0.5;exitY=1;entryX=0.25;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="candidate65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="suecica-to-candidate" edge="1" parent="1" source="suecica" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#BA5E91;strokeWidth=6;exitX=0.5;exitY=1;entryX=0.75;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="candidate65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="candidate-to-treeinput" edge="1" parent="1" source="candidate65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#68737D;strokeWidth=6;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="treeinput62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="treeinput-to-mafft" edge="1" parent="1" source="treeinput62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#52616B;strokeWidth=6;exitX=0.18;exitY=1;entryX=0.5;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="mafft">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mafft-to-iqtree" edge="1" parent="1" source="mafft" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#52616B;strokeWidth=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="iqtree">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqtree-to-unrooted" edge="1" parent="1" source="iqtree" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#52616B;strokeWidth=6;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="unrooted">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unrooted-to-detailed" edge="1" parent="1" source="unrooted" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#637583;strokeWidth=6;exitX=0.15;exitY=1;entryX=0.8;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="detailed">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unrooted-to-slide" edge="1" parent="1" source="unrooted" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#637583;strokeWidth=6;exitX=0.3;exitY=1;entryX=0.85;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="slide">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unrooted-to-rootcheck" edge="1" parent="1" source="unrooted" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#B68A46;strokeWidth=6;dashed=1;dashPattern=6 4;exitX=0.85;exitY=1;entryX=0.5;entryY=0;fontColor=light-dark(#202A32,#000000);labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" target="rootcheck">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

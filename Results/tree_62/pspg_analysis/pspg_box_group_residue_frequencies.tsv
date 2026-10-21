@@ -1,0 +1,477 @@
+sequence_group	motif_position	alignment_column	residue	count	n_non_gap	frequency
+UGT84 reference	1	450	W	24	24	1
+UGT84 reference	2	451	C	6	24	0.25
+UGT84 reference	2	451	G	1	24	0.0416666666666667
+UGT84 reference	2	451	S	17	24	0.708333333333333
+UGT84 reference	3	452	P	21	24	0.875
+UGT84 reference	3	452	Q	2	24	0.0833333333333333
+UGT84 reference	3	452	S	1	24	0.0416666666666667
+UGT84 reference	4	453	Q	24	24	1
+UGT84 reference	5	454	E	20	24	0.833333333333333
+UGT84 reference	5	454	I	1	24	0.0416666666666667
+UGT84 reference	5	454	P	1	24	0.0416666666666667
+UGT84 reference	5	454	T	2	24	0.0833333333333333
+UGT84 reference	6	455	E	1	24	0.0416666666666667
+UGT84 reference	6	455	K	9	24	0.375
+UGT84 reference	6	455	Q	9	24	0.375
+UGT84 reference	6	455	R	5	24	0.208333333333333
+UGT84 reference	7	456	I	3	24	0.125
+UGT84 reference	7	456	V	21	24	0.875
+UGT84 reference	8	457	L	24	24	1
+UGT84 reference	9	458	A	14	24	0.583333333333333
+UGT84 reference	9	458	E	1	24	0.0416666666666667
+UGT84 reference	9	458	G	1	24	0.0416666666666667
+UGT84 reference	9	458	L	1	24	0.0416666666666667
+UGT84 reference	9	458	M	1	24	0.0416666666666667
+UGT84 reference	9	458	S	5	24	0.208333333333333
+UGT84 reference	9	458	V	1	24	0.0416666666666667
+UGT84 reference	10	459	H	23	24	0.958333333333333
+UGT84 reference	10	459	N	1	24	0.0416666666666667
+UGT84 reference	11	460	E	1	24	0.0416666666666667
+UGT84 reference	11	460	M	1	24	0.0416666666666667
+UGT84 reference	11	460	P	22	24	0.916666666666667
+UGT84 reference	12	461	A	11	24	0.458333333333333
+UGT84 reference	12	461	S	13	24	0.541666666666667
+UGT84 reference	13	462	I	4	24	0.166666666666667
+UGT84 reference	13	462	T	2	24	0.0833333333333333
+UGT84 reference	13	462	V	18	24	0.75
+UGT84 reference	14	463	A	20	24	0.833333333333333
+UGT84 reference	14	463	G	1	24	0.0416666666666667
+UGT84 reference	14	463	S	2	24	0.0833333333333333
+UGT84 reference	14	463	V	1	24	0.0416666666666667
+UGT84 reference	15	464	C	24	24	1
+UGT84 reference	16	465	F	24	24	1
+UGT84 reference	17	466	F	1	24	0.0416666666666667
+UGT84 reference	17	466	I	3	24	0.125
+UGT84 reference	17	466	L	4	24	0.166666666666667
+UGT84 reference	17	466	V	16	24	0.666666666666667
+UGT84 reference	18	467	S	3	24	0.125
+UGT84 reference	18	467	T	21	24	0.875
+UGT84 reference	19	468	H	24	24	1
+UGT84 reference	20	469	C	24	24	1
+UGT84 reference	21	470	G	24	24	1
+UGT84 reference	22	471	W	24	24	1
+UGT84 reference	23	472	N	24	24	1
+UGT84 reference	24	473	S	24	24	1
+UGT84 reference	25	474	I	1	24	0.0416666666666667
+UGT84 reference	25	474	L	1	24	0.0416666666666667
+UGT84 reference	25	474	M	2	24	0.0833333333333333
+UGT84 reference	25	474	S	4	24	0.166666666666667
+UGT84 reference	25	474	T	16	24	0.666666666666667
+UGT84 reference	26	475	I	1	24	0.0416666666666667
+UGT84 reference	26	475	L	4	24	0.166666666666667
+UGT84 reference	26	475	M	18	24	0.75
+UGT84 reference	26	475	V	1	24	0.0416666666666667
+UGT84 reference	27	476	E	24	24	1
+UGT84 reference	28	477	A	12	24	0.5
+UGT84 reference	28	477	S	6	24	0.25
+UGT84 reference	28	477	T	6	24	0.25
+UGT84 reference	29	478	I	3	24	0.125
+UGT84 reference	29	478	L	18	24	0.75
+UGT84 reference	29	478	V	3	24	0.125
+UGT84 reference	30	479	A	3	24	0.125
+UGT84 reference	30	479	C	4	24	0.166666666666667
+UGT84 reference	30	479	S	5	24	0.208333333333333
+UGT84 reference	30	479	T	10	24	0.416666666666667
+UGT84 reference	30	479	V	2	24	0.0833333333333333
+UGT84 reference	31	480	A	3	24	0.125
+UGT84 reference	31	480	S	20	24	0.833333333333333
+UGT84 reference	31	480	T	1	24	0.0416666666666667
+UGT84 reference	32	481	G	24	24	1
+UGT84 reference	33	482	I	2	24	0.0833333333333333
+UGT84 reference	33	482	M	12	24	0.5
+UGT84 reference	33	482	V	10	24	0.416666666666667
+UGT84 reference	34	483	P	24	24	1
+UGT84 reference	35	484	F	1	24	0.0416666666666667
+UGT84 reference	35	484	I	1	24	0.0416666666666667
+UGT84 reference	35	484	L	3	24	0.125
+UGT84 reference	35	484	T	1	24	0.0416666666666667
+UGT84 reference	35	484	V	18	24	0.75
+UGT84 reference	36	485	I	6	24	0.25
+UGT84 reference	36	485	V	18	24	0.75
+UGT84 reference	37	486	A	18	24	0.75
+UGT84 reference	37	486	C	4	24	0.166666666666667
+UGT84 reference	37	486	G	1	24	0.0416666666666667
+UGT84 reference	37	486	T	1	24	0.0416666666666667
+UGT84 reference	38	487	F	17	24	0.708333333333333
+UGT84 reference	38	487	L	1	24	0.0416666666666667
+UGT84 reference	38	487	Y	6	24	0.25
+UGT84 reference	39	488	P	24	24	1
+UGT84 reference	40	489	Q	22	24	0.916666666666667
+UGT84 reference	40	489	S	1	24	0.0416666666666667
+UGT84 reference	40	489	T	1	24	0.0416666666666667
+UGT84 reference	41	490	W	24	24	1
+UGT84 reference	42	491	G	18	24	0.75
+UGT84 reference	42	491	I	1	24	0.0416666666666667
+UGT84 reference	42	491	T	5	24	0.208333333333333
+UGT84 reference	43	492	D	24	24	1
+UGT84 reference	44	493	Q	24	24	1
+UGT74 Group-L comparator	1	450	W	6	6	1
+UGT74 Group-L comparator	2	451	C	4	6	0.666666666666667
+UGT74 Group-L comparator	2	451	S	2	6	0.333333333333333
+UGT74 Group-L comparator	3	452	N	2	6	0.333333333333333
+UGT74 Group-L comparator	3	452	P	4	6	0.666666666666667
+UGT74 Group-L comparator	4	453	Q	6	6	1
+UGT74 Group-L comparator	5	454	L	6	6	1
+UGT74 Group-L comparator	6	455	D	1	6	0.166666666666667
+UGT74 Group-L comparator	6	455	E	3	6	0.5
+UGT74 Group-L comparator	6	455	Q	2	6	0.333333333333333
+UGT74 Group-L comparator	7	456	M	2	6	0.333333333333333
+UGT74 Group-L comparator	7	456	V	4	6	0.666666666666667
+UGT74 Group-L comparator	8	457	L	6	6	1
+UGT74 Group-L comparator	9	458	A	4	6	0.666666666666667
+UGT74 Group-L comparator	9	458	S	2	6	0.333333333333333
+UGT74 Group-L comparator	10	459	H	4	6	0.666666666666667
+UGT74 Group-L comparator	10	459	N	2	6	0.333333333333333
+UGT74 Group-L comparator	11	460	E	1	6	0.166666666666667
+UGT74 Group-L comparator	11	460	H	1	6	0.166666666666667
+UGT74 Group-L comparator	11	460	K	2	6	0.333333333333333
+UGT74 Group-L comparator	11	460	Q	2	6	0.333333333333333
+UGT74 Group-L comparator	12	461	A	4	6	0.666666666666667
+UGT74 Group-L comparator	12	461	S	2	6	0.333333333333333
+UGT74 Group-L comparator	13	462	I	4	6	0.666666666666667
+UGT74 Group-L comparator	13	462	T	1	6	0.166666666666667
+UGT74 Group-L comparator	13	462	V	1	6	0.166666666666667
+UGT74 Group-L comparator	14	463	A	1	6	0.166666666666667
+UGT74 Group-L comparator	14	463	G	5	6	0.833333333333333
+UGT74 Group-L comparator	15	464	C	6	6	1
+UGT74 Group-L comparator	16	465	F	6	6	1
+UGT74 Group-L comparator	17	466	I	1	6	0.166666666666667
+UGT74 Group-L comparator	17	466	L	1	6	0.166666666666667
+UGT74 Group-L comparator	17	466	M	1	6	0.166666666666667
+UGT74 Group-L comparator	17	466	V	3	6	0.5
+UGT74 Group-L comparator	18	467	T	6	6	1
+UGT74 Group-L comparator	19	468	H	6	6	1
+UGT74 Group-L comparator	20	469	C	5	6	0.833333333333333
+UGT74 Group-L comparator	20	469	S	1	6	0.166666666666667
+UGT74 Group-L comparator	21	470	G	6	6	1
+UGT74 Group-L comparator	22	471	F	1	6	0.166666666666667
+UGT74 Group-L comparator	22	471	W	5	6	0.833333333333333
+UGT74 Group-L comparator	23	472	N	6	6	1
+UGT74 Group-L comparator	24	473	S	6	6	1
+UGT74 Group-L comparator	25	474	T	5	6	0.833333333333333
+UGT74 Group-L comparator	25	474	V	1	6	0.166666666666667
+UGT74 Group-L comparator	26	475	L	3	6	0.5
+UGT74 Group-L comparator	26	475	M	2	6	0.333333333333333
+UGT74 Group-L comparator	26	475	V	1	6	0.166666666666667
+UGT74 Group-L comparator	27	476	E	6	6	1
+UGT74 Group-L comparator	28	477	A	3	6	0.5
+UGT74 Group-L comparator	28	477	G	3	6	0.5
+UGT74 Group-L comparator	29	478	L	5	6	0.833333333333333
+UGT74 Group-L comparator	29	478	V	1	6	0.166666666666667
+UGT74 Group-L comparator	30	479	G	1	6	0.166666666666667
+UGT74 Group-L comparator	30	479	S	4	6	0.666666666666667
+UGT74 Group-L comparator	30	479	T	1	6	0.166666666666667
+UGT74 Group-L comparator	31	480	F	2	6	0.333333333333333
+UGT74 Group-L comparator	31	480	L	4	6	0.666666666666667
+UGT74 Group-L comparator	32	481	G	6	6	1
+UGT74 Group-L comparator	33	482	V	6	6	1
+UGT74 Group-L comparator	34	483	P	6	6	1
+UGT74 Group-L comparator	35	484	M	5	6	0.833333333333333
+UGT74 Group-L comparator	35	484	V	1	6	0.166666666666667
+UGT74 Group-L comparator	36	485	V	6	6	1
+UGT74 Group-L comparator	37	486	A	4	6	0.666666666666667
+UGT74 Group-L comparator	37	486	G	2	6	0.333333333333333
+UGT74 Group-L comparator	38	487	M	4	6	0.666666666666667
+UGT74 Group-L comparator	38	487	V	2	6	0.333333333333333
+UGT74 Group-L comparator	39	488	P	6	6	1
+UGT74 Group-L comparator	40	489	K	2	6	0.333333333333333
+UGT74 Group-L comparator	40	489	Q	4	6	0.666666666666667
+UGT74 Group-L comparator	41	490	F	1	6	0.166666666666667
+UGT74 Group-L comparator	41	490	W	5	6	0.833333333333333
+UGT74 Group-L comparator	42	491	A	1	6	0.166666666666667
+UGT74 Group-L comparator	42	491	L	1	6	0.166666666666667
+UGT74 Group-L comparator	42	491	T	4	6	0.666666666666667
+UGT74 Group-L comparator	43	492	D	6	6	1
+UGT74 Group-L comparator	44	493	Q	6	6	1
+Group E/H	1	450	W	2	2	1
+Group E/H	2	451	A	1	2	0.5
+Group E/H	2	451	V	1	2	0.5
+Group E/H	3	452	P	2	2	1
+Group E/H	4	453	Q	2	2	1
+Group E/H	5	454	Q	1	2	0.5
+Group E/H	5	454	V	1	2	0.5
+Group E/H	6	455	E	2	2	1
+Group E/H	7	456	V	2	2	1
+Group E/H	8	457	L	2	2	1
+Group E/H	9	458	A	2	2	1
+Group E/H	10	459	H	2	2	1
+Group E/H	11	460	G	1	2	0.5
+Group E/H	11	460	K	1	2	0.5
+Group E/H	12	461	A	2	2	1
+Group E/H	13	462	I	2	2	1
+Group E/H	14	463	G	2	2	1
+Group E/H	15	464	A	1	2	0.5
+Group E/H	15	464	G	1	2	0.5
+Group E/H	16	465	F	2	2	1
+Group E/H	17	466	V	1	2	0.5
+Group E/H	17	466	W	1	2	0.5
+Group E/H	18	467	S	1	2	0.5
+Group E/H	18	467	T	1	2	0.5
+Group E/H	19	468	H	2	2	1
+Group E/H	20	469	C	1	2	0.5
+Group E/H	20	469	S	1	2	0.5
+Group E/H	21	470	G	2	2	1
+Group E/H	22	471	W	2	2	1
+Group E/H	23	472	N	2	2	1
+Group E/H	24	473	S	2	2	1
+Group E/H	25	474	I	1	2	0.5
+Group E/H	25	474	T	1	2	0.5
+Group E/H	26	475	L	2	2	1
+Group E/H	27	476	E	2	2	1
+Group E/H	28	477	S	2	2	1
+Group E/H	29	478	M	1	2	0.5
+Group E/H	29	478	V	1	2	0.5
+Group E/H	30	479	C	1	2	0.5
+Group E/H	30	479	W	1	2	0.5
+Group E/H	31	480	E	1	2	0.5
+Group E/H	31	480	F	1	2	0.5
+Group E/H	32	481	G	2	2	1
+Group E/H	33	482	V	2	2	1
+Group E/H	34	483	P	2	2	1
+Group E/H	35	484	I	1	2	0.5
+Group E/H	35	484	M	1	2	0.5
+Group E/H	36	485	I	1	2	0.5
+Group E/H	36	485	L	1	2	0.5
+Group E/H	37	486	F	1	2	0.5
+Group E/H	37	486	T	1	2	0.5
+Group E/H	38	487	S	1	2	0.5
+Group E/H	38	487	W	1	2	0.5
+Group E/H	39	488	D	1	2	0.5
+Group E/H	39	488	P	1	2	0.5
+Group E/H	40	489	F	1	2	0.5
+Group E/H	40	489	I	1	2	0.5
+Group E/H	41	490	G	1	2	0.5
+Group E/H	41	490	Y	1	2	0.5
+Group E/H	42	491	A	1	2	0.5
+Group E/H	42	491	L	1	2	0.5
+Group E/H	43	492	D	1	2	0.5
+Group E/H	43	492	E	1	2	0.5
+Group E/H	44	493	Q	2	2	1
+C. florida candidate	1	450	W	20	20	1
+C. florida candidate	2	451	C	14	20	0.7
+C. florida candidate	2	451	S	6	20	0.3
+C. florida candidate	3	452	A	1	20	0.05
+C. florida candidate	3	452	N	3	20	0.15
+C. florida candidate	3	452	P	7	20	0.35
+C. florida candidate	3	452	S	9	20	0.45
+C. florida candidate	4	453	Q	20	20	1
+C. florida candidate	5	454	A	2	20	0.1
+C. florida candidate	5	454	E	3	20	0.15
+C. florida candidate	5	454	I	1	20	0.05
+C. florida candidate	5	454	L	6	20	0.3
+C. florida candidate	5	454	M	1	20	0.05
+C. florida candidate	5	454	S	1	20	0.05
+C. florida candidate	5	454	V	6	20	0.3
+C. florida candidate	6	455	A	2	20	0.1
+C. florida candidate	6	455	E	15	20	0.75
+C. florida candidate	6	455	K	3	20	0.15
+C. florida candidate	7	456	I	1	20	0.05
+C. florida candidate	7	456	V	19	20	0.95
+C. florida candidate	8	457	L	20	20	1
+C. florida candidate	9	458	A	3	20	0.15
+C. florida candidate	9	458	M	2	20	0.1
+C. florida candidate	9	458	S	15	20	0.75
+C. florida candidate	10	459	H	18	20	0.9
+C. florida candidate	10	459	S	2	20	0.1
+C. florida candidate	11	460	E	3	20	0.15
+C. florida candidate	11	460	G	1	20	0.05
+C. florida candidate	11	460	K	2	20	0.1
+C. florida candidate	11	460	L	1	20	0.05
+C. florida candidate	11	460	P	11	20	0.55
+C. florida candidate	11	460	Q	1	20	0.05
+C. florida candidate	11	460	T	1	20	0.05
+C. florida candidate	12	461	A	7	20	0.35
+C. florida candidate	12	461	S	13	20	0.65
+C. florida candidate	13	462	F	1	20	0.05
+C. florida candidate	13	462	I	1	20	0.05
+C. florida candidate	13	462	L	9	20	0.45
+C. florida candidate	13	462	M	1	20	0.05
+C. florida candidate	13	462	S	1	20	0.05
+C. florida candidate	13	462	T	2	20	0.1
+C. florida candidate	13	462	V	5	20	0.25
+C. florida candidate	14	463	A	5	20	0.25
+C. florida candidate	14	463	G	15	20	0.75
+C. florida candidate	15	464	C	20	20	1
+C. florida candidate	16	465	F	20	20	1
+C. florida candidate	17	466	F	3	20	0.15
+C. florida candidate	17	466	L	2	20	0.1
+C. florida candidate	17	466	M	1	20	0.05
+C. florida candidate	17	466	V	14	20	0.7
+C. florida candidate	18	467	S	5	20	0.25
+C. florida candidate	18	467	T	15	20	0.75
+C. florida candidate	19	468	H	20	20	1
+C. florida candidate	20	469	C	19	20	0.95
+C. florida candidate	20	469	S	1	20	0.05
+C. florida candidate	21	470	G	20	20	1
+C. florida candidate	22	471	F	1	20	0.05
+C. florida candidate	22	471	W	19	20	0.95
+C. florida candidate	23	472	N	20	20	1
+C. florida candidate	24	473	S	20	20	1
+C. florida candidate	25	474	A	1	20	0.05
+C. florida candidate	25	474	I	1	20	0.05
+C. florida candidate	25	474	M	1	20	0.05
+C. florida candidate	25	474	S	4	20	0.2
+C. florida candidate	25	474	T	12	20	0.6
+C. florida candidate	25	474	V	1	20	0.05
+C. florida candidate	26	475	I	2	20	0.1
+C. florida candidate	26	475	L	16	20	0.8
+C. florida candidate	26	475	M	2	20	0.1
+C. florida candidate	27	476	E	20	20	1
+C. florida candidate	28	477	A	9	20	0.45
+C. florida candidate	28	477	G	1	20	0.05
+C. florida candidate	28	477	S	9	20	0.45
+C. florida candidate	28	477	T	1	20	0.05
+C. florida candidate	29	478	I	2	20	0.1
+C. florida candidate	29	478	L	15	20	0.75
+C. florida candidate	29	478	V	3	20	0.15
+C. florida candidate	30	479	A	2	20	0.1
+C. florida candidate	30	479	S	8	20	0.4
+C. florida candidate	30	479	T	1	20	0.05
+C. florida candidate	30	479	V	9	20	0.45
+C. florida candidate	31	480	A	3	20	0.15
+C. florida candidate	31	480	C	1	20	0.05
+C. florida candidate	31	480	F	2	20	0.1
+C. florida candidate	31	480	L	7	20	0.35
+C. florida candidate	31	480	S	7	20	0.35
+C. florida candidate	32	481	G	20	20	1
+C. florida candidate	33	482	I	1	20	0.05
+C. florida candidate	33	482	M	2	20	0.1
+C. florida candidate	33	482	V	17	20	0.85
+C. florida candidate	34	483	P	20	20	1
+C. florida candidate	35	484	I	1	20	0.05
+C. florida candidate	35	484	L	1	20	0.05
+C. florida candidate	35	484	M	11	20	0.55
+C. florida candidate	35	484	V	7	20	0.35
+C. florida candidate	36	485	I	3	20	0.15
+C. florida candidate	36	485	L	1	20	0.05
+C. florida candidate	36	485	V	16	20	0.8
+C. florida candidate	37	486	A	15	20	0.75
+C. florida candidate	37	486	G	2	20	0.1
+C. florida candidate	37	486	T	1	20	0.05
+C. florida candidate	37	486	V	2	20	0.1
+C. florida candidate	38	487	F	11	20	0.55
+C. florida candidate	38	487	I	1	20	0.05
+C. florida candidate	38	487	L	2	20	0.1
+C. florida candidate	38	487	M	5	20	0.25
+C. florida candidate	38	487	Y	1	20	0.05
+C. florida candidate	39	488	A	1	20	0.05
+C. florida candidate	39	488	P	18	20	0.9
+C. florida candidate	39	488	S	1	20	0.05
+C. florida candidate	40	489	E	2	20	0.1
+C. florida candidate	40	489	H	2	20	0.1
+C. florida candidate	40	489	L	1	20	0.05
+C. florida candidate	40	489	Q	14	20	0.7
+C. florida candidate	40	489	R	1	20	0.05
+C. florida candidate	41	490	F	2	20	0.1
+C. florida candidate	41	490	W	18	20	0.9
+C. florida candidate	42	491	G	2	20	0.1
+C. florida candidate	42	491	S	3	20	0.15
+C. florida candidate	42	491	T	15	20	0.75
+C. florida candidate	43	492	D	20	20	1
+C. florida candidate	44	493	Q	20	20	1
+C. suecica candidate	1	450	W	10	10	1
+C. suecica candidate	2	451	C	6	10	0.6
+C. suecica candidate	2	451	S	4	10	0.4
+C. suecica candidate	3	452	P	6	10	0.6
+C. suecica candidate	3	452	Q	1	10	0.1
+C. suecica candidate	3	452	S	3	10	0.3
+C. suecica candidate	4	453	Q	10	10	1
+C. suecica candidate	5	454	D	1	10	0.1
+C. suecica candidate	5	454	E	1	10	0.1
+C. suecica candidate	5	454	I	1	10	0.1
+C. suecica candidate	5	454	L	4	10	0.4
+C. suecica candidate	5	454	V	3	10	0.3
+C. suecica candidate	6	455	E	7	10	0.7
+C. suecica candidate	6	455	K	1	10	0.1
+C. suecica candidate	6	455	Q	2	10	0.2
+C. suecica candidate	7	456	L	1	10	0.1
+C. suecica candidate	7	456	V	9	10	0.9
+C. suecica candidate	8	457	L	10	10	1
+C. suecica candidate	9	458	A	4	10	0.4
+C. suecica candidate	9	458	S	6	10	0.6
+C. suecica candidate	10	459	H	9	10	0.9
+C. suecica candidate	10	459	S	1	10	0.1
+C. suecica candidate	11	460	E	3	10	0.3
+C. suecica candidate	11	460	K	1	10	0.1
+C. suecica candidate	11	460	P	6	10	0.6
+C. suecica candidate	12	461	A	4	10	0.4
+C. suecica candidate	12	461	S	6	10	0.6
+C. suecica candidate	13	462	I	1	10	0.1
+C. suecica candidate	13	462	L	5	10	0.5
+C. suecica candidate	13	462	T	1	10	0.1
+C. suecica candidate	13	462	V	3	10	0.3
+C. suecica candidate	14	463	A	2	10	0.2
+C. suecica candidate	14	463	G	8	10	0.8
+C. suecica candidate	15	464	C	9	10	0.9
+C. suecica candidate	15	464	V	1	10	0.1
+C. suecica candidate	16	465	F	10	10	1
+C. suecica candidate	17	466	F	1	10	0.1
+C. suecica candidate	17	466	L	2	10	0.2
+C. suecica candidate	17	466	V	7	10	0.7
+C. suecica candidate	18	467	S	1	10	0.1
+C. suecica candidate	18	467	T	9	10	0.9
+C. suecica candidate	19	468	H	10	10	1
+C. suecica candidate	20	469	C	10	10	1
+C. suecica candidate	21	470	G	10	10	1
+C. suecica candidate	22	471	F	2	10	0.2
+C. suecica candidate	22	471	W	8	10	0.8
+C. suecica candidate	23	472	N	10	10	1
+C. suecica candidate	24	473	S	10	10	1
+C. suecica candidate	25	474	A	1	10	0.1
+C. suecica candidate	25	474	L	1	10	0.1
+C. suecica candidate	25	474	S	1	10	0.1
+C. suecica candidate	25	474	T	5	10	0.5
+C. suecica candidate	25	474	V	2	10	0.2
+C. suecica candidate	26	475	I	1	10	0.1
+C. suecica candidate	26	475	L	7	10	0.7
+C. suecica candidate	26	475	M	2	10	0.2
+C. suecica candidate	27	476	E	10	10	1
+C. suecica candidate	28	477	A	5	10	0.5
+C. suecica candidate	28	477	S	4	10	0.4
+C. suecica candidate	28	477	T	1	10	0.1
+C. suecica candidate	29	478	I	3	10	0.3
+C. suecica candidate	29	478	L	6	10	0.6
+C. suecica candidate	29	478	V	1	10	0.1
+C. suecica candidate	30	479	C	3	10	0.3
+C. suecica candidate	30	479	S	3	10	0.3
+C. suecica candidate	30	479	T	1	10	0.1
+C. suecica candidate	30	479	V	3	10	0.3
+C. suecica candidate	31	480	A	1	10	0.1
+C. suecica candidate	31	480	C	2	10	0.2
+C. suecica candidate	31	480	G	1	10	0.1
+C. suecica candidate	31	480	I	1	10	0.1
+C. suecica candidate	31	480	L	4	10	0.4
+C. suecica candidate	31	480	S	1	10	0.1
+C. suecica candidate	32	481	G	10	10	1
+C. suecica candidate	33	482	M	1	10	0.1
+C. suecica candidate	33	482	V	9	10	0.9
+C. suecica candidate	34	483	P	10	10	1
+C. suecica candidate	35	484	L	3	10	0.3
+C. suecica candidate	35	484	M	4	10	0.4
+C. suecica candidate	35	484	V	3	10	0.3
+C. suecica candidate	36	485	I	2	10	0.2
+C. suecica candidate	36	485	V	8	10	0.8
+C. suecica candidate	37	486	A	6	10	0.6
+C. suecica candidate	37	486	C	1	10	0.1
+C. suecica candidate	37	486	T	2	10	0.2
+C. suecica candidate	37	486	V	1	10	0.1
+C. suecica candidate	38	487	F	4	10	0.4
+C. suecica candidate	38	487	L	1	10	0.1
+C. suecica candidate	38	487	M	3	10	0.3
+C. suecica candidate	38	487	W	1	10	0.1
+C. suecica candidate	38	487	Y	1	10	0.1
+C. suecica candidate	39	488	A	2	10	0.2
+C. suecica candidate	39	488	P	8	10	0.8
+C. suecica candidate	40	489	F	1	10	0.1
+C. suecica candidate	40	489	H	1	10	0.1
+C. suecica candidate	40	489	Q	8	10	0.8
+C. suecica candidate	41	490	F	1	10	0.1
+C. suecica candidate	41	490	R	2	10	0.2
+C. suecica candidate	41	490	W	7	10	0.7
+C. suecica candidate	42	491	A	1	10	0.1
+C. suecica candidate	42	491	G	2	10	0.2
+C. suecica candidate	42	491	S	1	10	0.1
+C. suecica candidate	42	491	T	6	10	0.6
+C. suecica candidate	43	492	D	10	10	1
+C. suecica candidate	44	493	Q	10	10	1

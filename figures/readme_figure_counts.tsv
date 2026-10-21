@@ -1,0 +1,17 @@
+dataset	category	count
+Reference/context panel	UGT84-A	17
+Reference/context panel	UGT84-B	3
+Reference/context panel	UGT84-J	4
+Reference/context panel	UGT74 / Group-L comparator	6
+Reference/context panel	Group E context	1
+Reference/context panel	Group H context	1
+Cornus candidates	Cornus florida selected loci	20
+Cornus candidates	Cornus suecica selected loci	13
+Cornus candidates	Cornus florida tree tips	20
+Cornus candidates	Cornus suecica tree tips	10
+Cornus candidates	Cornus florida held out from tree	0
+Cornus candidates	Cornus suecica held out from tree	3
+PF00201/core screen	C. florida PF00201 hits	257
+PF00201/core screen	C. suecica PF00201 hits	146
+PF00201/core screen	C. florida exact HCGWNS	160
+PF00201/core screen	C. suecica exact HCGWNS	100

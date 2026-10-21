@@ -1,0 +1,221 @@
+sequence_group	motif_position	alignment_column	n_sequences	n_non_gap	n_gap	gap_fraction	major_residue	major_count	major_frequency	entropy_bits
+UGT84 reference	1	450	24	24	0	0	W	24	1	0
+UGT84 reference	2	451	24	24	0	0	S	17	0.708333333333333	1.04343569632188
+UGT84 reference	3	452	24	24	0	0	P	21	0.875	0.658351422456408
+UGT84 reference	4	453	24	24	0	0	Q	24	1	0
+UGT84 reference	5	454	24	24	0	0	E	20	0.833333333333333	0.900022421648354
+UGT84 reference	6	455	24	24	0	0	K	9	0.375	1.72378372987122
+UGT84 reference	7	456	24	24	0	0	V	21	0.875	0.543564443199596
+UGT84 reference	8	457	24	24	0	0	L	24	1	0
+UGT84 reference	9	458	24	24	0	0	A	14	0.583333333333333	1.88027044308602
+UGT84 reference	10	459	24	24	0	0	H	23	0.958333333333333	0.249882292833185
+UGT84 reference	11	460	24	24	0	0	P	22	0.916666666666667	0.497150183636967
+UGT84 reference	12	461	24	24	0	0	S	13	0.541666666666667	0.99498482818597
+UGT84 reference	13	462	24	24	0	0	V	18	0.75	1.04085208297275
+UGT84 reference	14	463	24	24	0	0	A	20	0.833333333333333	0.900022421648354
+UGT84 reference	15	464	24	24	0	0	C	24	1	0
+UGT84 reference	16	465	24	24	0	0	F	24	1	0
+UGT84 reference	17	466	24	24	0	0	V	16	0.666666666666667	1.38684218813101
+UGT84 reference	18	467	24	24	0	0	T	21	0.875	0.543564443199596
+UGT84 reference	19	468	24	24	0	0	H	24	1	0
+UGT84 reference	20	469	24	24	0	0	C	24	1	0
+UGT84 reference	21	470	24	24	0	0	G	24	1	0
+UGT84 reference	22	471	24	24	0	0	W	24	1	0
+UGT84 reference	23	472	24	24	0	0	N	24	1	0
+UGT84 reference	24	473	24	24	0	0	S	24	1	0
+UGT84 reference	25	474	24	24	0	0	T	16	0.666666666666667	1.50162916738782
+UGT84 reference	26	475	24	24	0	0	M	18	0.75	1.12418541630609
+UGT84 reference	27	476	24	24	0	0	E	24	1	0
+UGT84 reference	28	477	24	24	0	0	A	12	0.5	1.5
+UGT84 reference	29	478	24	24	0	0	L	18	0.75	1.06127812445913
+UGT84 reference	30	479	24	24	0	0	T	10	0.416666666666667	2.10230379549308
+UGT84 reference	31	480	24	24	0	0	S	20	0.833333333333333	0.785235442391543
+UGT84 reference	32	481	24	24	0	0	G	24	1	0
+UGT84 reference	33	482	24	24	0	0	M	12	0.5	1.32501121082418
+UGT84 reference	34	483	24	24	0	0	P	24	1	0
+UGT84 reference	35	484	24	24	0	0	V	18	0.75	1.25939843704928
+UGT84 reference	36	485	24	24	0	0	V	18	0.75	0.811278124459133
+UGT84 reference	37	486	24	24	0	0	A	18	0.75	1.12418541630609
+UGT84 reference	38	487	24	24	0	0	F	17	0.708333333333333	1.04343569632188
+UGT84 reference	39	488	24	24	0	0	P	24	1	0
+UGT84 reference	40	489	24	24	0	0	Q	22	0.916666666666667	0.497150183636967
+UGT84 reference	41	490	24	24	0	0	W	24	1	0
+UGT84 reference	42	491	24	24	0	0	G	18	0.75	0.973783729871221
+UGT84 reference	43	492	24	24	0	0	D	24	1	0
+UGT84 reference	44	493	24	24	0	0	Q	24	1	0
+UGT74 Group-L comparator	1	450	6	6	0	0	W	6	1	0
+UGT74 Group-L comparator	2	451	6	6	0	0	C	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	3	452	6	6	0	0	P	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	4	453	6	6	0	0	Q	6	1	0
+UGT74 Group-L comparator	5	454	6	6	0	0	L	6	1	0
+UGT74 Group-L comparator	6	455	6	6	0	0	E	3	0.5	1.45914791702724
+UGT74 Group-L comparator	7	456	6	6	0	0	V	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	8	457	6	6	0	0	L	6	1	0
+UGT74 Group-L comparator	9	458	6	6	0	0	A	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	10	459	6	6	0	0	H	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	11	460	6	6	0	0	K	2	0.333333333333333	1.91829583405449
+UGT74 Group-L comparator	12	461	6	6	0	0	A	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	13	462	6	6	0	0	I	4	0.666666666666667	1.25162916738782
+UGT74 Group-L comparator	14	463	6	6	0	0	G	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	15	464	6	6	0	0	C	6	1	0
+UGT74 Group-L comparator	16	465	6	6	0	0	F	6	1	0
+UGT74 Group-L comparator	17	466	6	6	0	0	V	3	0.5	1.79248125036058
+UGT74 Group-L comparator	18	467	6	6	0	0	T	6	1	0
+UGT74 Group-L comparator	19	468	6	6	0	0	H	6	1	0
+UGT74 Group-L comparator	20	469	6	6	0	0	C	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	21	470	6	6	0	0	G	6	1	0
+UGT74 Group-L comparator	22	471	6	6	0	0	W	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	23	472	6	6	0	0	N	6	1	0
+UGT74 Group-L comparator	24	473	6	6	0	0	S	6	1	0
+UGT74 Group-L comparator	25	474	6	6	0	0	T	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	26	475	6	6	0	0	L	3	0.5	1.45914791702724
+UGT74 Group-L comparator	27	476	6	6	0	0	E	6	1	0
+UGT74 Group-L comparator	28	477	6	6	0	0	A	3	0.5	1
+UGT74 Group-L comparator	29	478	6	6	0	0	L	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	30	479	6	6	0	0	S	4	0.666666666666667	1.25162916738782
+UGT74 Group-L comparator	31	480	6	6	0	0	L	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	32	481	6	6	0	0	G	6	1	0
+UGT74 Group-L comparator	33	482	6	6	0	0	V	6	1	0
+UGT74 Group-L comparator	34	483	6	6	0	0	P	6	1	0
+UGT74 Group-L comparator	35	484	6	6	0	0	M	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	36	485	6	6	0	0	V	6	1	0
+UGT74 Group-L comparator	37	486	6	6	0	0	A	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	38	487	6	6	0	0	M	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	39	488	6	6	0	0	P	6	1	0
+UGT74 Group-L comparator	40	489	6	6	0	0	Q	4	0.666666666666667	0.91829583405449
+UGT74 Group-L comparator	41	490	6	6	0	0	W	5	0.833333333333333	0.650022421648354
+UGT74 Group-L comparator	42	491	6	6	0	0	T	4	0.666666666666667	1.25162916738782
+UGT74 Group-L comparator	43	492	6	6	0	0	D	6	1	0
+UGT74 Group-L comparator	44	493	6	6	0	0	Q	6	1	0
+Group E/H	1	450	2	2	0	0	W	2	1	0
+Group E/H	2	451	2	2	0	0	A	1	0.5	1
+Group E/H	3	452	2	2	0	0	P	2	1	0
+Group E/H	4	453	2	2	0	0	Q	2	1	0
+Group E/H	5	454	2	2	0	0	Q	1	0.5	1
+Group E/H	6	455	2	2	0	0	E	2	1	0
+Group E/H	7	456	2	2	0	0	V	2	1	0
+Group E/H	8	457	2	2	0	0	L	2	1	0
+Group E/H	9	458	2	2	0	0	A	2	1	0
+Group E/H	10	459	2	2	0	0	H	2	1	0
+Group E/H	11	460	2	2	0	0	G	1	0.5	1
+Group E/H	12	461	2	2	0	0	A	2	1	0
+Group E/H	13	462	2	2	0	0	I	2	1	0
+Group E/H	14	463	2	2	0	0	G	2	1	0
+Group E/H	15	464	2	2	0	0	A	1	0.5	1
+Group E/H	16	465	2	2	0	0	F	2	1	0
+Group E/H	17	466	2	2	0	0	V	1	0.5	1
+Group E/H	18	467	2	2	0	0	S	1	0.5	1
+Group E/H	19	468	2	2	0	0	H	2	1	0
+Group E/H	20	469	2	2	0	0	C	1	0.5	1
+Group E/H	21	470	2	2	0	0	G	2	1	0
+Group E/H	22	471	2	2	0	0	W	2	1	0
+Group E/H	23	472	2	2	0	0	N	2	1	0
+Group E/H	24	473	2	2	0	0	S	2	1	0
+Group E/H	25	474	2	2	0	0	I	1	0.5	1
+Group E/H	26	475	2	2	0	0	L	2	1	0
+Group E/H	27	476	2	2	0	0	E	2	1	0
+Group E/H	28	477	2	2	0	0	S	2	1	0
+Group E/H	29	478	2	2	0	0	M	1	0.5	1
+Group E/H	30	479	2	2	0	0	C	1	0.5	1
+Group E/H	31	480	2	2	0	0	E	1	0.5	1
+Group E/H	32	481	2	2	0	0	G	2	1	0
+Group E/H	33	482	2	2	0	0	V	2	1	0
+Group E/H	34	483	2	2	0	0	P	2	1	0
+Group E/H	35	484	2	2	0	0	I	1	0.5	1
+Group E/H	36	485	2	2	0	0	I	1	0.5	1
+Group E/H	37	486	2	2	0	0	F	1	0.5	1
+Group E/H	38	487	2	2	0	0	S	1	0.5	1
+Group E/H	39	488	2	2	0	0	D	1	0.5	1
+Group E/H	40	489	2	2	0	0	F	1	0.5	1
+Group E/H	41	490	2	2	0	0	G	1	0.5	1
+Group E/H	42	491	2	2	0	0	A	1	0.5	1
+Group E/H	43	492	2	2	0	0	D	1	0.5	1
+Group E/H	44	493	2	2	0	0	Q	2	1	0
+C. florida candidate	1	450	20	20	0	0	W	20	1	0
+C. florida candidate	2	451	20	20	0	0	C	14	0.7	0.881290899230693
+C. florida candidate	3	452	20	20	0	0	S	9	0.45	1.67514324640999
+C. florida candidate	4	453	20	20	0	0	Q	20	1	0
+C. florida candidate	5	454	20	20	0	0	L	6	0.3	2.4332062193465
+C. florida candidate	6	455	20	20	0	0	E	15	0.75	1.0540157730728
+C. florida candidate	7	456	20	20	0	0	V	19	0.95	0.286396957115956
+C. florida candidate	8	457	20	20	0	0	L	20	1	0
+C. florida candidate	9	458	20	20	0	0	S	15	0.75	1.0540157730728
+C. florida candidate	10	459	20	20	0	0	H	18	0.9	0.468995593589281
+C. florida candidate	11	460	20	20	0	0	P	11	0.55	2.08149632952868
+C. florida candidate	12	461	20	20	0	0	S	13	0.65	0.934068055375491
+C. florida candidate	13	462	20	20	0	0	L	9	0.45	2.21497982051648
+C. florida candidate	14	463	20	20	0	0	G	15	0.75	0.811278124459133
+C. florida candidate	15	464	20	20	0	0	C	20	1	0
+C. florida candidate	16	465	20	20	0	0	F	20	1	0
+C. florida candidate	17	466	20	20	0	0	V	14	0.7	1.31903527433887
+C. florida candidate	18	467	20	20	0	0	T	15	0.75	0.811278124459133
+C. florida candidate	19	468	20	20	0	0	H	20	1	0
+C. florida candidate	20	469	20	20	0	0	C	19	0.95	0.286396957115956
+C. florida candidate	21	470	20	20	0	0	G	20	1	0
+C. florida candidate	22	471	20	20	0	0	W	19	0.95	0.286396957115956
+C. florida candidate	23	472	20	20	0	0	N	20	1	0
+C. florida candidate	24	473	20	20	0	0	S	20	1	0
+C. florida candidate	25	474	20	20	0	0	T	12	0.6	1.77095059445467
+C. florida candidate	26	475	20	20	0	0	L	16	0.8	0.921928094887362
+C. florida candidate	27	476	20	20	0	0	E	20	1	0
+C. florida candidate	28	477	20	20	0	0	A	9	0.45	1.46899559358928
+C. florida candidate	29	478	20	20	0	0	L	15	0.75	1.0540157730728
+C. florida candidate	30	479	20	20	0	0	V	9	0.45	1.59546184423832
+C. florida candidate	31	480	20	20	0	0	L	7	0.35	2.01903527433887
+C. florida candidate	32	481	20	20	0	0	G	20	1	0
+C. florida candidate	33	482	20	20	0	0	V	17	0.85	0.747584679824574
+C. florida candidate	34	483	20	20	0	0	P	20	1	0
+C. florida candidate	35	484	20	20	0	0	M	11	0.55	1.43666648191669
+C. florida candidate	36	485	20	20	0	0	V	16	0.8	0.884183719779189
+C. florida candidate	37	486	20	20	0	0	A	15	0.75	1.19176014818097
+C. florida candidate	38	487	20	20	0	0	F	11	0.55	1.73875868091501
+C. florida candidate	39	488	20	20	0	0	P	18	0.9	0.568995593589281
+C. florida candidate	40	489	20	20	0	0	Q	14	0.7	1.45677964944704
+C. florida candidate	41	490	20	20	0	0	W	18	0.9	0.468995593589281
+C. florida candidate	42	491	20	20	0	0	T	15	0.75	1.0540157730728
+C. florida candidate	43	492	20	20	0	0	D	20	1	0
+C. florida candidate	44	493	20	20	0	0	Q	20	1	0
+C. suecica candidate	1	450	10	10	0	0	W	10	1	0
+C. suecica candidate	2	451	10	10	0	0	C	6	0.6	0.970950594454669
+C. suecica candidate	3	452	10	10	0	0	P	6	0.6	1.29546184423832
+C. suecica candidate	4	453	10	10	0	0	Q	10	1	0
+C. suecica candidate	5	454	10	10	0	0	L	4	0.4	2.04643934467102
+C. suecica candidate	6	455	10	10	0	0	E	7	0.7	1.15677964944704
+C. suecica candidate	7	456	10	10	0	0	V	9	0.9	0.468995593589281
+C. suecica candidate	8	457	10	10	0	0	L	10	1	0
+C. suecica candidate	9	458	10	10	0	0	S	6	0.6	0.970950594454669
+C. suecica candidate	10	459	10	10	0	0	H	9	0.9	0.468995593589281
+C. suecica candidate	11	460	10	10	0	0	P	6	0.6	1.29546184423832
+C. suecica candidate	12	461	10	10	0	0	S	6	0.6	0.970950594454669
+C. suecica candidate	13	462	10	10	0	0	L	5	0.5	1.68547529722733
+C. suecica candidate	14	463	10	10	0	0	G	8	0.8	0.721928094887362
+C. suecica candidate	15	464	10	10	0	0	C	9	0.9	0.468995593589281
+C. suecica candidate	16	465	10	10	0	0	F	10	1	0
+C. suecica candidate	17	466	10	10	0	0	V	7	0.7	1.15677964944704
+C. suecica candidate	18	467	10	10	0	0	T	9	0.9	0.468995593589281
+C. suecica candidate	19	468	10	10	0	0	H	10	1	0
+C. suecica candidate	20	469	10	10	0	0	C	10	1	0
+C. suecica candidate	21	470	10	10	0	0	G	10	1	0
+C. suecica candidate	22	471	10	10	0	0	W	8	0.8	0.721928094887362
+C. suecica candidate	23	472	10	10	0	0	N	10	1	0
+C. suecica candidate	24	473	10	10	0	0	S	10	1	0
+C. suecica candidate	25	474	10	10	0	0	T	5	0.5	1.96096404744368
+C. suecica candidate	26	475	10	10	0	0	L	7	0.7	1.15677964944704
+C. suecica candidate	27	476	10	10	0	0	E	10	1	0
+C. suecica candidate	28	477	10	10	0	0	A	5	0.5	1.36096404744368
+C. suecica candidate	29	478	10	10	0	0	L	6	0.6	1.29546184423832
+C. suecica candidate	30	479	10	10	0	0	C	3	0.3	1.89546184423832
+C. suecica candidate	31	480	10	10	0	0	L	4	0.4	2.32192809488736
+C. suecica candidate	32	481	10	10	0	0	G	10	1	0
+C. suecica candidate	33	482	10	10	0	0	V	9	0.9	0.468995593589281
+C. suecica candidate	34	483	10	10	0	0	P	10	1	0
+C. suecica candidate	35	484	10	10	0	0	M	4	0.4	1.57095059445467
+C. suecica candidate	36	485	10	10	0	0	V	8	0.8	0.721928094887362
+C. suecica candidate	37	486	10	10	0	0	A	6	0.6	1.57095059445467
+C. suecica candidate	38	487	10	10	0	0	F	4	0.4	2.04643934467102
+C. suecica candidate	39	488	10	10	0	0	P	8	0.8	0.721928094887362
+C. suecica candidate	40	489	10	10	0	0	Q	8	0.8	0.921928094887362
+C. suecica candidate	41	490	10	10	0	0	W	7	0.7	1.15677964944704
+C. suecica candidate	42	491	10	10	0	0	T	6	0.6	1.57095059445467
+C. suecica candidate	43	492	10	10	0	0	D	10	1	0
+C. suecica candidate	44	493	10	10	0	0	Q	10	1	0

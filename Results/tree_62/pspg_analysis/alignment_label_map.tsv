@@ -1,0 +1,63 @@
+short_label	protein_accession	alignment_id	taxon	panel_role	UGT84_subfamily	gene_name	sequence_group
+UGT84_A_CitLGT___UGT84A5	BAA93039.1	BAA93039.1|taxon=Citrus_unshiu|gene=CitLGT_/_UGT84A5|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Citrus unshiu	UGT84_reference	A	CitLGT / UGT84A5	UGT84 reference
+UGT84_A_CsUGT84A22	ALO19890.1	ALO19890.1|taxon=Camellia_sinensis|gene=CsUGT84A22|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Camellia sinensis	UGT84_reference	A	CsUGT84A22	UGT84 reference
+UGT84_A_FaGT2___UGT84A6	AAU09443.1	AAU09443.1|taxon=Fragaria_x_ananassa|gene=FaGT2_/_UGT84A6|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Fragaria x ananassa	UGT84_reference	A	FaGT2 / UGT84A6	UGT84 reference
+UGT84_A_UGT84A10	CAJ77650.1	CAJ77650.1|taxon=Brassica_napus|gene=UGT84A10|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Brassica napus	UGT84_reference	A	UGT84A10	UGT84 reference
+UGT84_A_UGT84A13	AHA54051.1	AHA54051.1|taxon=Quercus_robur|gene=UGT84A13|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Quercus robur	UGT84_reference	A	UGT84A13	UGT84 reference
+UGT84_A_UGT84A17	AII32448.1	AII32448.1|taxon=Populus_fremontii_x_P._angustifolia|gene=UGT84A17|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Populus fremontii x P. angustifolia	UGT84_reference	A	UGT84A17	UGT84 reference
+UGT84_A_UGT84A23	ANN02875.1	ANN02875.1|taxon=Punica_granatum|gene=UGT84A23|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Punica granatum	UGT84_reference	A	UGT84A23	UGT84 reference
+UGT84_A_UGT84A24	ANN02877.1	ANN02877.1|taxon=Punica_granatum|gene=UGT84A24|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Punica granatum	UGT84_reference	A	UGT84A24	UGT84 reference
+UGT84_A_UGT84A25a	BBB21213.1	BBB21213.1|taxon=Eucalyptus_camaldulensis|gene=UGT84A25a|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	A	UGT84A25a	UGT84 reference
+UGT84_A_UGT84A25b	BBB21212.1	BBB21212.1|taxon=Eucalyptus_camaldulensis|gene=UGT84A25b|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	A	UGT84A25b	UGT84 reference
+UGT84_A_UGT84A26a	BBB21215.1	BBB21215.1|taxon=Eucalyptus_camaldulensis|gene=UGT84A26a|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	A	UGT84A26a	UGT84 reference
+UGT84_A_UGT84A26b	BBB21214.1	BBB21214.1|taxon=Eucalyptus_camaldulensis|gene=UGT84A26b|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	A	UGT84A26b	UGT84 reference
+UGT84_A_UGT84A3	NP_193284.1	NP_193284.1|taxon=Arabidopsis_thaliana|gene=UGT84A3|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Arabidopsis thaliana	UGT84_reference	A	UGT84A3	UGT84 reference
+UGT84_A_UGT84A4	AEE83611.1	AEE83611.1|taxon=Arabidopsis_thaliana|gene=UGT84A4|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Arabidopsis thaliana	UGT84_reference	A	UGT84A4	UGT84 reference
+UGT84_A_UGT84A77	QZM06937.1	QZM06937.1|taxon=Canarium_album|gene=UGT84A77|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Canarium album	UGT84_reference	A	UGT84A77	UGT84 reference
+UGT84_A_UGT84A9	AAF98390.1	AAF98390.1|taxon=Brassica_napus|gene=UGT84A9|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Brassica napus	UGT84_reference	A	UGT84A9	UGT84 reference
+UGT84_A_VvGT1___UGT84A44	AEW31187.1	AEW31187.1|taxon=Vitis_vinifera|gene=VvGT1_/_UGT84A44|family=UGT84|subfamily=A|group=L|role=UGT84_reference	Vitis vinifera	UGT84_reference	A	VvGT1 / UGT84A44	UGT84 reference
+UGT84_B_LcUGT84B1	XLV46658.1	XLV46658.1|taxon=Litsea_cubeba|gene=LcUGT84B1|family=UGT84|subfamily=B|group=L|role=UGT84_reference	Litsea cubeba	UGT84_reference	B	LcUGT84B1	UGT84 reference
+UGT84_B_UGT84B1	AAB87119.1	AAB87119.1|taxon=Arabidopsis_thaliana|gene=UGT84B1|family=UGT84|subfamily=B|group=L|role=UGT84_reference	Arabidopsis thaliana	UGT84_reference	B	UGT84B1	UGT84 reference
+UGT84_B_UGT84B2	AAB87106.1	AAB87106.1|taxon=Arabidopsis_thaliana|gene=UGT84B2|family=UGT84|subfamily=B|group=L|role=UGT84_reference	Arabidopsis thaliana	UGT84_reference	B	UGT84B2	UGT84 reference
+UGT84_J_CsUGT84J2	ALO19891.1	ALO19891.1|taxon=Camellia_sinensis|gene=CsUGT84J2|family=UGT84|subfamily=J|group=L|role=UGT84_reference	Camellia sinensis	UGT84_reference	J	CsUGT84J2	UGT84 reference
+UGT84_J_UGT84J3	BBB21216.1	BBB21216.1|taxon=Eucalyptus_camaldulensis|gene=UGT84J3|family=UGT84|subfamily=J|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	J	UGT84J3	UGT84 reference
+UGT84_J_UGT84J4	BBB21217.1	BBB21217.1|taxon=Eucalyptus_camaldulensis|gene=UGT84J4|family=UGT84|subfamily=J|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	J	UGT84J4	UGT84 reference
+UGT84_J_UGT84J5	BBB21218.1	BBB21218.1|taxon=Eucalyptus_camaldulensis|gene=UGT84J5|family=UGT84|subfamily=J|group=L|role=UGT84_reference	Eucalyptus camaldulensis	UGT84_reference	J	UGT84J5	UGT84 reference
+UGT74_L_CsUGT74AF1	ALO19897.1	ALO19897.1|taxon=Camellia_sinensis|gene=CsUGT74AF1|family=UGT74|group=L|role=Group_L_UGT74_comparator	Camellia sinensis	Group_L_UGT74_comparator	CsUGT74AF1	CsUGT74AF1	UGT74 Group-L comparator
+UGT74_L_CsUGT74AG1	ALO19898.1	ALO19898.1|taxon=Camellia_sinensis|gene=CsUGT74AG1|family=UGT74|group=L|role=Group_L_UGT74_comparator	Camellia sinensis	Group_L_UGT74_comparator	CsUGT74AG1	CsUGT74AG1	UGT74 Group-L comparator
+UGT74_L_CsUGT74B4	ALO19895.1	ALO19895.1|taxon=Camellia_sinensis|gene=CsUGT74B4|family=UGT74|group=L|role=Group_L_UGT74_comparator	Camellia sinensis	Group_L_UGT74_comparator	CsUGT74B4	CsUGT74B4	UGT74 Group-L comparator
+UGT74_L_CsUGT74B5	ALO19896.1	ALO19896.1|taxon=Camellia_sinensis|gene=CsUGT74B5|family=UGT74|group=L|role=Group_L_UGT74_comparator	Camellia sinensis	Group_L_UGT74_comparator	CsUGT74B5	CsUGT74B5	UGT74 Group-L comparator
+UGT74_L_UGT74F1	AEC10333.1	AEC10333.1|taxon=Arabidopsis_thaliana|gene=UGT74F1|family=UGT74|group=L|role=Group_L_UGT74_comparator	Arabidopsis thaliana	Group_L_UGT74_comparator	UGT74F1	UGT74F1	UGT74 Group-L comparator
+UGT74_L_UGT74F2	AEC10331.1	AEC10331.1|taxon=Arabidopsis_thaliana|gene=UGT74F2|family=UGT74|group=L|role=Group_L_UGT74_comparator	Arabidopsis thaliana	Group_L_UGT74_comparator	UGT74F2	UGT74F2	UGT74 Group-L comparator
+Context_UGT71G1	AAW56092.1	AAW56092.1|taxon=Medicago_truncatula|gene=UGT71G1|family=UGT71|group=E|role=family1_context_outgroup	Medicago truncatula	family1_context_outgroup	UGT71G1	UGT71G1	Group E/H
+Context_UGT76G1	AAR06912.1	AAR06912.1|taxon=Stevia_rebaudiana|gene=UGT76G1|family=UGT76|group=H|role=family1_context_outgroup	Stevia rebaudiana	family1_context_outgroup	UGT76G1	UGT76G1	Group E/H
+Cfl_XP_059626305.1	XP_059626305.1	XP_059626305.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132269216	C. florida candidate
+Cfl_XP_059632094.1	XP_059632094.1	XP_059632094.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274773	C. florida candidate
+Cfl_XP_059632096.1	XP_059632096.1	XP_059632096.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274774	C. florida candidate
+Cfl_XP_059632097.1	XP_059632097.1	XP_059632097.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274776	C. florida candidate
+Cfl_XP_059632098.1	XP_059632098.1	XP_059632098.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274777	C. florida candidate
+Cfl_XP_059632099.1	XP_059632099.1	XP_059632099.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274778	C. florida candidate
+Cfl_XP_059632100.1	XP_059632100.1	XP_059632100.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274779	C. florida candidate
+Cfl_XP_059632103.1	XP_059632103.1	XP_059632103.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274787	C. florida candidate
+Cfl_XP_059632110.1	XP_059632110.1	XP_059632110.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132274796	C. florida candidate
+Cfl_XP_059640855.1	XP_059640855.1	XP_059640855.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132283003	C. florida candidate
+Cfl_XP_059643666.1	XP_059643666.1	XP_059643666.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132285490	C. florida candidate
+Cfl_XP_059645061.1	XP_059645061.1	XP_059645061.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132286712	C. florida candidate
+Cfl_XP_059647833.1	XP_059647833.1	XP_059647833.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132294119	C. florida candidate
+Cfl_XP_059650960.1	XP_059650960.1	XP_059650960.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132298446	C. florida candidate
+Cfl_XP_059652947.1	XP_059652947.1	XP_059652947.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132300038	C. florida candidate
+Cfl_XP_059652950.1	XP_059652950.1	XP_059652950.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132300040	C. florida candidate
+Cfl_XP_059655495.1	XP_059655495.1	XP_059655495.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132302602	C. florida candidate
+Cfl_XP_059655504.1	XP_059655504.1	XP_059655504.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132302610	C. florida candidate
+Cfl_XP_059659978.1	XP_059659978.1	XP_059659978.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132306563	C. florida candidate
+Cfl_XP_059664371.1	XP_059664371.1	XP_059664371.1|taxon=Cornus_florida|assembly=GCF_030987335.1|role=Cornus_candidate	Cornus florida	Cornus_candidate	unassigned	gene-LOC132310171	C. florida candidate
+Csue_ENSLUWP00000007592	ENSLUWP00000007592	ENSLUWP00000007592|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000006123	C. suecica candidate
+Csue_ENSLUWP00000008228	ENSLUWP00000008228	ENSLUWP00000008228|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000006616	C. suecica candidate
+Csue_ENSLUWP00000010698	ENSLUWP00000010698	ENSLUWP00000010698|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000008428	C. suecica candidate
+Csue_ENSLUWP00000017180	ENSLUWP00000017180	ENSLUWP00000017180|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000013721	C. suecica candidate
+Csue_ENSLUWP00000019781	ENSLUWP00000019781	ENSLUWP00000019781|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000015759	C. suecica candidate
+Csue_ENSLUWP00000020540	ENSLUWP00000020540	ENSLUWP00000020540|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000016315	C. suecica candidate
+Csue_ENSLUWP00000021829	ENSLUWP00000021829	ENSLUWP00000021829|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000017421	C. suecica candidate
+Csue_ENSLUWP00000024519	ENSLUWP00000024519	ENSLUWP00000024519|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000019498	C. suecica candidate
+Csue_ENSLUWP00000030258	ENSLUWP00000030258	ENSLUWP00000030258|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000023949	C. suecica candidate
+Csue_ENSLUWP00000032354	ENSLUWP00000032354	ENSLUWP00000032354|taxon=Cornus_suecica|assembly=GCA_963922005.1|role=Cornus_candidate	Cornus suecica	Cornus_candidate	unassigned	ENSLUWG00000025808	C. suecica candidate

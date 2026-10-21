@@ -1,0 +1,90 @@
+{
+  "created_utc": "2026-10-20T19:37:19.071410+00:00",
+  "source_tree": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/iqtree_unrooted/cornus_ugt84_62.treefile",
+  "source_tree_sha256": "5c605f5daad13c6da845d0014fa2b63a5c9bb61c4bfcb1c64f52806f55bdd7fe",
+  "source_manifest": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/input/cornus_ugt84_tree_input_62_manifest.tsv",
+  "source_manifest_sha256": "cae5c81d57e3c86704b68b27f91e91c33443f32567dcc479352b8de619beb32f",
+  "tip_count": 62,
+  "tree_is_unrooted": true,
+  "display_orientation": "arbitrary Newick trifurcation; not a biological root",
+  "bootstrap_display": "UFBoot values parsed from the second component of IQ-TREE SH-aLRT/UFBoot labels; only values above each variant's threshold are shown.",
+  "detailed_label_role": "UGT74 comparator tips explicitly labeled Group L UGT74 comparator.",
+  "ugt84_subfamily_badges": "A/B/J shown only for formal UGT84 references; no Cornus candidate subfamily assigned.",
+  "candidate_species_colors": {
+    "Cornus florida": "#0072B2",
+    "Cornus suecica": "#CC79A7"
+  },
+  "ugt84_subfamily_colors": {
+    "A": "#6A3D9A",
+    "B": "#E69F00",
+    "J": "#009E73"
+  },
+  "variants": {
+    "detailed": {
+      "figure_inches": [
+        15.5,
+        14.5
+      ],
+      "support_threshold_percent": 95,
+      "support_values_rendered": 39,
+      "tip_label_font_pt": 7.4,
+      "support_font_pt": 5.8,
+      "files": {
+        "png": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_detailed.png",
+          "bytes": 895147,
+          "sha256": "f6260bfa3527ce78992d52b434cd2c3521eef7672e59ed0d4bf519265b1575b4"
+        },
+        "svg": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_detailed.svg",
+          "bytes": 87043,
+          "sha256": "c011ece4e27c65df6d166de7a5329e8f2c7669a2467de0861e332bf5d514f2bc"
+        },
+        "pdf": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_detailed.pdf",
+          "bytes": 41134,
+          "sha256": "0d8a42d04de3faaa9d8c60e9a765f706259170eacfa9f655d97917ce930ca1c9"
+        }
+      }
+    },
+    "ppt": {
+      "figure_inches": [
+        13.333,
+        7.5
+      ],
+      "support_threshold_percent": 99,
+      "support_values_rendered": 33,
+      "tip_label_font_pt": 5.2,
+      "support_font_pt": 4.2,
+      "files": {
+        "png": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_ppt.png",
+          "bytes": 456767,
+          "sha256": "13aa2a08ac2f2a6ad35b51fadf14af2c1aa5ab3f868dd39caf22c3ef314fdca9"
+        },
+        "svg": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_ppt.svg",
+          "bytes": 84588,
+          "sha256": "10a244741f64e308eff93ddeee6b4cfb401cddf57be305ba79023eaf0a3101e1"
+        },
+        "pdf": {
+          "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/cornus_ugt84_62_tree_ppt.pdf",
+          "bytes": 39788,
+          "sha256": "7c2f854e38b1c996608bfed1f059cd88dce206e7cf7a4caefc11da2ec93db91b"
+        }
+      }
+    }
+  },
+  "tip_label_maps": {
+    "detailed": {
+      "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/tree_plot_tip_label_map_detailed.tsv",
+      "sha256": "5adbddb6adce6cde426e08bb0d2c7cabef818d46030e3d072dad1a309e4a869a"
+    },
+    "ppt": {
+      "path": "/Users/eugenianikonorova/Desktop/Work/Cornus_genomes/Revised_analysis/Results/cornus_comparison/tree_62/figures_v3/tree_plot_tip_label_map_ppt.tsv",
+      "sha256": "45443ee400b87399d4eda221a823aa267e9519dbb1cfcc3a00119e247393c7db"
+    }
+  },
+  "matplotlib_version": "3.10.6",
+  "biopython_version": "1.85"
+}

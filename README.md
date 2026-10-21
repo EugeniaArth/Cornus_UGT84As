@@ -183,4 +183,46 @@ The six UGT74 tips are labeled “Group L UGT74 comparator”; Cornus candidates
 
 These categories describe topology in the unrooted ML tree; they are not UGT84 subfamily or enzyme-function assignments. For each Cornus tip, the summary uses the smallest side of a supported unrooted split (UFBoot ≥95) containing that candidate and reference/context tips. A unique reference category is reported; mixed categories are marked mixed/ambiguous; candidates without such a supported split are counted separately. The three flagged Suecica models are held out and have no tree placement.
 
-The single Group E/H-context-associated Suecica candidate belongs to a supported three-tip context cluster, but its pairwise grouping with UGT76G1 alone has only 39% UFBoot. The two context sequences therefore do not supply a stable exclusive outgroup split. The tree is unrooted; no evolutionary direction or ancestral state is inferred. PF00201, conserved-core presence, similarity, and tree placement remain candidate evidence only.
+The single Group E/H-context-associated Suecica candidate belongs to a supported three-tip context cluster, but its pairwise grouping with UGT76G1 alone has only 39% UFBoot.
+The two context sequences therefore do not supply a stable exclusive outgroup split. The tree is unrooted; no evolutionary direction or ancestral state is inferred. PF00201, conserved-core presence, similarity, and tree placement remain candidate evidence only.
+
+
+### PSPG-box boundary mapping and comparative profile analysis
+
+The PSPG analysis uses the same 62-sequence MAFFT alignment as the tree; it does not realign the sequences. The conventional 44-residue box was extracted with `Biostrings` and `IRanges` from alignment columns 450–493 (inclusive). The boundary was checked against UGT84A13 (`AHA54051.1`): the extracted sequence is `WSPQEQVLAHPSVACFVTHCGWNSTMESLTSGMPVVAFPQWGDQ`, with S, E, C, Q, and Q at PSPG positions 2, 5, 15, 40, and 44. These residues match the UGT84 landmarks described in Figure 2a of Li et al. (2024), [*Communications Chemistry*](https://doi.org/10.1038/s42004-024-01231-1). The aligned `H[CS]G[WF]NS` core begins at column 468, corresponding to PSPG positions 19–24; exact `HCGWNS` occurs in 56/62 sequences, while six carry aligned variants. The core is a cross-check, not the sole basis for defining the box. The earlier 453–496 extraction was offset three residues downstream and is superseded; links below point to the corrected outputs. The corrected interval is gap-free in all 62 sequences.
+
+`ggmsa` was used for the full-alignment overview and labeled PSPG-box detail. Per-position residue frequencies were compared across 24 UGT84 references, six UGT74 Group-L comparators, two family-1 context proteins, 20 *C. florida* candidates, and 10 *C. suecica* candidates. A position was called **provisionally UGT84-enriched in this sampled panel** when the UGT84 major residue occurred in at least 80% of references and in no more than two of the six UGT74 comparators. This exploratory filter was checked by leave-one-UGT84-reference-out analysis; it is not a validated family classifier.
+
+| PSPG position | Alignment column | UGT84 major residue | UGT84 references | Same residue among Group-L UGT74 comparators |
+|---:|---:|:---:|---:|---:|
+| 5 | 454 | E | 20/24 (83%) | 0/6 (0%) |
+| 11 | 460 | P | 22/24 (92%) | 0/6 (0%) |
+| 14 | 463 | A | 20/24 (83%) | 1/6 (17%) |
+| 31 | 480 | S | 20/24 (83%) | 0/6 (0%) |
+
+Across these four positions, Cornus candidates matched 0–75% of the UGT84 major-residue profile (mean 32.5% for *C. florida*, 25% for *C. suecica*). In the leave-one-out check, 23 of 24 held-out UGT84 references scored higher against the training UGT84 profile than against the UGT74 profile. These are short-profile comparisons and do not assign UGT84 membership, subfamily, or enzyme activity to any candidate.
+
+Figure 2a of Li et al. compares selected UGT72 and UGT84 sequences, whereas this analysis compares a different and broader set of groups. Its residue frequencies are therefore not expected to reproduce that figure. In particular, the UGT74 controls here are Group-L comparators, not UGT72 proteins; the detected differences are panel-enriched patterns, not a general UGT84-specific signature.
+
+![Validated 44-residue PSPG-box alignment](Results/tree_62/pspg_analysis_62_corrected/pspg_box_62_alignment_detail.png)
+
+![Group-wise PSPG-box residue profiles](Results/tree_62/pspg_analysis_62_corrected/pspg_box_group_residue_profiles.png)
+
+
+The six-residue core is HCGWNS at PSPG positions 19–24 (alignment columns 468–473). It is exact in 56/62 sequences (90.3%). 
+The six variants involve only two substitutions:                                                                                                                                 
+                                                                                                                                                         
+ C→S at PSPG position 20: 3 sequences                                                                                                                  
+ W→F at PSPG position 22: 4 sequences                                                                                                                  
+ One sequence has both substitutions
+ 
+|Group | Exact HCGWNS | Variants
+|---:|---:|:---:|---:|---:|
+GT84 references (n=24) | 24/24 | None |
+GT74 Group-L comparators (n=6) | 4/6 | ALO19897.1 (HCGFNS); ALO19895.1 (HSGWNS) |
+Group E/H (n=2) | 1/2 | AAR06912.1 / UGT76G1 (HSGWNS) |
+C. florida candidates (n=20) | 19/20 | XP_059626305.1 (HSGFNS) |
+C. suecica candidates (n=10) | 8/10 | ENSLUWP00000021829 and ENSLUWP00000024519 (HCGFNS) |
+
+So, C→S occurs in UGT74, Group E/H , and one *C. florida* candidate; W→F occurs in UGT74, *C. florida*, and two Suecica candidates. 
+

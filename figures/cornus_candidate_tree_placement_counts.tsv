@@ -1,0 +1,13 @@
+taxon	placement_category	count
+Cornus florida	UGT84 reference-associated	5
+Cornus florida	UGT74 Group-L comparator-associated	6
+Cornus florida	Group E/H context-associated	0
+Cornus florida	No >=95 UFBoot reference association	9
+Cornus florida	Mixed/ambiguous supported reference associations	0
+Cornus florida	Held out: missing annotated start-codon feature	0
+Cornus suecica	UGT84 reference-associated	2
+Cornus suecica	UGT74 Group-L comparator-associated	4
+Cornus suecica	Group E/H context-associated	1
+Cornus suecica	No >=95 UFBoot reference association	3
+Cornus suecica	Mixed/ambiguous supported reference associations	0
+Cornus suecica	Held out: missing annotated start-codon feature	3
